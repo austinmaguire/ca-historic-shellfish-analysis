@@ -8,11 +8,15 @@ data/external/*
 !data/processed/.gitkeep
 !data/external/.gitkeep
 
+# Docs Files 
+docs/erddap_info/*
+
 # Image files
 images/*
 !images/.gitkeep
 images/figures/*
-!images/figures/.gitkeep
+!images/figures/.gitkeep 
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
