@@ -8,8 +8,8 @@ data/external/*
 !data/processed/.gitkeep
 !data/external/.gitkeep
 
-# Docs Files 
-docs/erddap_info/*
+# Documentation
+docs/erddap_info/
 
 # Image files
 images/*
