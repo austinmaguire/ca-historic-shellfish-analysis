@@ -1,0 +1,10 @@
+ERDDAP has web pages (for humans with browsers) and RESTful web services (for computer programs). You can bypass ERDDAP's web pages and use ERDDAP's RESTful web services (for example, for searching for datasets, for downloading data, for making maps) directly from any computer program (for example, Matlab, R, or a program that you write) and even from web pages (via HTML image tags or JavaScript). You can also build other useful and interesting things on top of ERDDAP's web services — see the Awesome ERDDAP list of Awesome ERDDAP-related projects. 
+The site says this about text files - Text Files (for example, .csv, .tsv, .txt)Text files are different than word processing files, which have special embedded formatting commands. If you import a text file into a word processor and make changes to the file, be sure to then save the file as an ASCII text file once again. Or, avoid this problem by using a text editor program.
+If you edit .tsv (tab separated value) files, be very careful to maintain the tabs which separate the values in different "columns" on each row. By default (even in many text editors), tabs often appear as spaces (or a few spaces). So be sure to use the editor's feature that makes tabs visible (as a special symbol) so that you can maintain the tabs between values.
+.xml files are technically text files, but there are advantages to using separate XML editors to work with them.
+There are dozens of text editor programs for every operating system, including:
+	•	Notepad comes with Windows (look in Window's Start list under Windows Accessories).
+	•	TextEdit comes with Mac OS X (look in the Applications folder).
+	•	Most Linux variants come with a few text editors, one of which is the default (which you can change). If you are using Linux, you probably already have a favorite.
+	•	See the Wikipedia Comparison Of Text Editors.
+	•	And many, many more. Use your favorite search engine to search for what you want.

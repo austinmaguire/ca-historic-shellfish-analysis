@@ -1,0 +1,342 @@
+Number,Species
+0,"Abalone, Black"
+1,"Abalone, Flat"
+2,"Abalone, Green"
+3,"Abalone, Pink"
+4,"Abalone, Pinto"
+5,"Abalone, Red"
+6,"Abalone, Threaded"
+7,"Abalone, Unspecified"
+8,"Abalone, White"
+9,"Anchovy, Deepbody"
+10,"Anchovy, Northern"
+11,Barnacle
+12,"Barracuda, California"
+13,"Bass, Barred Sand"
+14,"Bass, Giant Sea"
+15,"Bass, Kelp"
+16,"Bass, Rock"
+17,"Bass, Spotted Sand"
+18,"Bass, Striped"
+19,"Blackfish, Sacramento"
+20,Blacksmith
+21,Bonefish
+22,"Bonito, Pacific"
+23,Box Crab
+24,"Butterfish, Pacific"
+25,Cabezon
+26,"Cabrilla, Spotted"
+27,Carp
+28,Catfish
+29,Chiton
+30,"Clam, California Jackknife"
+31,"Clam, Common Washington"
+32,"Clam, Gaper"
+33,"Clam, Native Littleneck"
+34,"Clam, Nothern Razor"
+35,"Clam, Pismo"
+36,"Clam, Purple"
+37,"Clam, Rosy Razor"
+38,"Clam, Soft Shelled"
+39,"Clam, Unspecified"
+40,"Cod, Pacific"
+41,"Corbina, California"
+42,"Corvina, Shortfin"
+43,"Crab, Brown Rock"
+44,"Crab, Claws"
+45,"Crab, Dungeness"
+46,"Crab, King"
+47,"Crab, Pelagic Red"
+48,"Crab, Red Rock"
+49,"Crab, Rock"
+50,"Crab, Sand"
+51,"Crab, Shore"
+52,"Crab, Spider"
+53,"Crab, Tanner"
+54,"Crab, Yellow Rock"
+55,Crayfish
+56,"Croaker, Black"
+57,"Croaker, Various Species"
+58,"Croaker, White"
+59,"Croaker, Yellowfin"
+60,"Crustacean, Unspecified"
+61,"Cucumber, Sea"
+62,"Cusk-Eel, Spotted"
+63,Dolphinfish
+64,"Echinod, Unspecified"
+65,Eel
+66,"Eel, Blenny"
+67,"Eel, California Moray"
+68,Escolar
+69,Eulachon
+70,"Flounder, Arrowtooth"
+71,"Flounder, Starry"
+72,"Flounder, Unclassified"
+73,Flyingfish
+74,Frogs
+75,Garibaldi
+76,"Goby, Bluebanded"
+77,"Goby, Yellowfin"
+78,"Greenling, Kelp"
+79,Grenadiers
+80,Grouper
+81,"Grouper, Broomtail"
+82,"Grunion, California"
+83,"Guitarfish, Shovelnose"
+84,Hagfish
+85,Halfmoon
+86,"Halibut, California"
+87,"Halibut, Pacific"
+88,"Halibut, Unspecified"
+89,Hardhead
+90,Herring Roe On Kelp
+91,"Herring, Pacific"
+92,"Herring, Round"
+93,"Herring, Whole Fish With Roe"
+94,Hitch
+95,"Invertebrates, Colonial"
+96,Jack Crevalle
+97,Jacks
+98,Kahawai
+99,Kelpfishes
+100,"Killifish, California"
+101,"Limpet, Unspecified"
+102,Lingcod
+103,"Lizardfish, California"
+104,"Lobster, California Spiny"
+105,Louvar
+106,"Mackerel, Bullet"
+107,"Mackerel, Jack"
+108,"Mackerel, Pacific"
+109,"Mackerel, Unspecified"
+110,"Marlin, Striped"
+111,"Midshipman, Plainfin"
+112,"Mola, Common"
+113,"Mollusk, Unspecified"
+114,Monkeyface Eel
+115,"Mudsucker, Longjaw"
+116,"Mullet, Striped"
+117,Mussel
+118,"Needlefish, California"
+119,"Octopus, Unspecified"
+120,Oilfish
+121,Opah
+122,Opaleye
+123,"Oyster, California"
+124,"Oyster, Eastern"
+125,"Oyster, European Flat"
+126,"Oyster, Giant Pacific"
+127,"Oyster, Unspecified"
+128,Perch
+129,"Perch, Pacific Ocean"
+130,"Pikeminnow, Sacramento"
+131,"Pomfret, Pacific"
+132,"Prawn, Golden"
+133,"Prawn, Ridgeback"
+134,"Prawn, Spotted"
+135,"Prawn, Unspecified"
+136,Queenfish
+137,Ratfish
+138,Ray
+139,"Ray, Bat"
+140,"Ray, Pacific Electric"
+141,"Rockfish, Aurora"
+142,"Rockfish, Bank"
+143,"Rockfish, Black"
+144,"Rockfish, Black-And-Yellow"
+145,"Rockfish, Blackgill"
+146,"Rockfish, Blue"
+147,"Rockfish, Bocaccio"
+148,"Rockfish, Bronzespotted"
+149,"Rockfish, Brown"
+150,"Rockfish, Calico"
+151,"Rockfish, Chameleon"
+152,"Rockfish, Chilipepper"
+153,"Rockfish, China"
+154,"Rockfish, Copper"
+155,"Rockfish, Cowcod"
+156,"Rockfish, Darkblotched"
+157,"Rockfish, Flag"
+158,"Rockfish, Gopher"
+159,"Rockfish, Grass"
+160,"Rockfish, Greenblotched"
+161,"Rockfish, Greenspotted"
+162,"Rockfish, Greenstriped"
+163,"Rockfish, Group Blue/Black"
+164,"Rockfish, Group Bocaccio/Chilir"
+165,"Rockfish, Group Bolina"
+166,"Rockfish, Group Canary/Vermillrock"
+167,"Rockfish, Group Deep Red"
+168,"Rockfish, Group Gopher"
+169,"Rockfish, Group Red"
+170,"Rockfish, Group Rosefish"
+171,"Rockfish, Group Small Red"
+172,"Rockfish, Honeycomb"
+173,"Rockfish, Kelp"
+174,"Rockfish, Mexican"
+175,"Rockfish, Nominal Canary"
+176,"Rockfish, Olive"
+177,"Rockfish, Pink"
+178,"Rockfish, Pinkrose"
+179,"Rockfish, Quillback"
+180,"Rockfish, Redbanded"
+181,"Rockfish, Rosethorn"
+182,"Rockfish, Rosy"
+183,"Rockfish, Shortbelly"
+184,"Rockfish, Speckled"
+185,"Rockfish, Splitnose"
+186,"Rockfish, Squarespot"
+187,"Rockfish, Starry"
+188,"Rockfish, Stripetail"
+189,"Rockfish, Swordspine"
+190,"Rockfish, Treefish"
+191,"Rockfish, Unspecified"
+192,"Rockfish, Unspecified Nearshorer"
+193,"Rockfish, Unspecified Shelf"
+194,"Rockfish, Unspecified Slope"
+195,"Rockfish, Vermillion"
+196,"Rockfish, Widow"
+197,"Rockfish, Yelloweye"
+198,"Rockfish, Yellowtail"
+199,Sablefish
+200,Sailfish
+201,Salema
+202,Salmon
+203,"Salmon Roe, King"
+204,"Salmon, Chum"
+205,"Salmon, King"
+206,"Salmon, Pink"
+207,"Salmon, Silver"
+208,Sanddab
+209,"Sanddab, Longfin"
+210,"Sanddab, Pacific"
+211,"Sanddab, Speckled"
+212,"Sardine, Pacific"
+213,Sargo
+214,"Saury, Pacific"
+215,"Scallop, Unspecified"
+216,"Scorpionfish, California"
+217,"Sculpin, Pacific Staghorn"
+218,"Sculpin, Yellowchin"
+219,Sea Hares
+220,Sea Slug
+221,Sea Stars
+222,"Seabass, White"
+223,Senorita
+224,"Shad, American"
+225,"Shad, Threadfin"
+226,Shark
+227,"Shark, Basking"
+228,"Shark, Bigeye Thresher"
+229,"Shark, Black Tip"
+230,"Shark, Blue"
+231,"Shark, Bonito (Mako)"
+232,"Shark, Brown Smooth"
+233,"Shark, Common Thresher"
+234,"Shark, Cow"
+235,"Shark, Dusky"
+236,"Shark, Gray Smoothhound"
+237,"Shark, Horn"
+238,"Shark, Leopard"
+239,"Shark, Pacific Angel"
+240,"Shark, Pelagic Thresher"
+241,"Shark, Salmon"
+242,"Shark, Sevengill"
+243,"Shark, Sixgill"
+244,"Shark, Smooth Hammerhead"
+245,"Shark, Soupfin"
+246,"Shark, Spiny Dogfish"
+247,"Shark, Swell"
+248,"Shark, White"
+249,"Sheephead, California"
+250,"Shrimp, Bay"
+251,"Shrimp, Brine"
+252,"Shrimp, Coonstripe"
+253,"Shrimp, Ghost"
+254,"Shrimp, Pacific Ocean"
+255,"Shrimp, Red Rock"
+256,"Shrimp, Unspecified"
+257,Sierra
+258,Skate
+259,"Skate, Big"
+260,"Skate, California"
+261,"Skate, Thorny"
+262,Smelt
+263,"Smelt, Atherinid"
+264,"Smelt, Jacksmelt"
+265,"Smelt, Night"
+266,"Smelt, Surf"
+267,"Smelt, Topsmelt"
+268,"Smelt, True"
+269,"Smelt, Whitebait"
+270,"Snail, Sea"
+271,Snapper -Mexico-
+272,"Sole, Bigmouth"
+273,"Sole, Butter"
+274,"Sole, C-O"
+275,"Sole, Curlfin"
+276,"Sole, Dover"
+277,"Sole, English"
+278,"Sole, Fantail"
+279,"Sole, Petrale"
+280,"Sole, Rex"
+281,"Sole, Rock"
+282,"Sole, Sand"
+283,"Sole, Slender"
+284,"Sole, Unclassified"
+285,Split-Tail
+286,"Squid, Jumbo"
+287,"Squid, Market"
+288,"Stickleback, Threespine"
+289,Stingray
+290,Sturgeon
+291,"Sucker, Western"
+292,Surfperch
+293,"Surfperch, Barred"
+294,"Surfperch, Black"
+295,"Surfperch, Calico"
+296,"Surfperch, Dwarf"
+297,"Surfperch, Pile"
+298,"Surfperch, Pink"
+299,"Surfperch, Rainbow"
+300,"Surfperch, Redtail"
+301,"Surfperch, Rubberlip"
+302,"Surfperch, Shiner"
+303,"Surfperch, Walleye"
+304,"Surfperch, White"
+305,Swordfish
+306,Thornyhead
+307,"Thornyhead, Longspine"
+308,"Thornyhead, Shortspine"
+309,"Tomcod, Pacific"
+310,"Tonguefish, California"
+311,Triggerfish
+312,"Tuna, Albacore"
+313,"Tuna, Bigeye"
+314,"Tuna, Blackfin"
+315,"Tuna, Bluefin"
+316,"Tuna, Skipjack"
+317,"Tuna, Skipjack, Black"
+318,"Tuna, Unspecified"
+319,"Tuna, Yellowfin"
+320,"Turbot, Diamond"
+321,"Turbot, Hornyhead"
+322,"Turbot, Spotted"
+323,"Turbot, Unspecified"
+324,"Turtles, Freshwater"
+325,"Turtles, Marine"
+326,Unspecified Fish
+327,Unspecified Trawled Fish
+328,"Urchin, Lytechinus"
+329,"Urchin, Purple Sea"
+330,"Urchin, Red Sea"
+331,"Urchin, Unspecified"
+332,Wahoo
+333,Whelk
+334,"Whitefish, Ocean"
+335,"Whiting, Pacific"
+336,Wolf-Eel
+337,"Worms, Marine"
+338,"Wrasse, Rock"
+339,Yellowtail
+340,Zebraperch

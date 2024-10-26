@@ -1,0 +1,62 @@
+Fish, Marine and Anadromous
+ANCHOVY, NORTHERN All fish landed as anchovy EXCEPT deepbody anchovy and slough anchovy
+BARRACUDA, CALIFORNIA All fish landed as barracuda,,
+BASS, GIANT SEA All fish landed as black seabass (1928-1960) or giant seabass (1961),,
+BASS, ROCK Group name includes kelp bass, barred sand bass, and spotted sand bass",,
+BONITO, PACIFIC All fish landed as bonito or bonito tuna,,
+CABEZON All fish landed as cabezon,,
+CROAKER, WHITE All fish landed as king fish or croaker or as queenfish, which was included with white croaker through 1971",, 
+FLOUNDER All fish landed as flounder or as starry flounder, but NOT arrowtooth flounder which was included with sole before 1951",, 
+FLYINGFISH All fish landed as flyingfish,,
+GREENLING, KELP All fish landed as kelp greenling or as greenling,,
+GRENADIERS All fish landed as grenadiers after 1971, they were part of the miscellaneous trawl category through 1971",, 
+HALIBUT, CALIFORNIA Fish landed as California halibut, possible mixing of Pacific with California halibut, see Fish Bulletin 74, p75. 1947 ",, 
+HERRING, PACIFIC All fish landed as Pacific herring or as herring roe (meaning herring containing roe), not round herring",, 
+LINGCOD All fish landed as lingcod, called Pacific cultus before 1947.",,
+MACKEREL, JACK All fish landed as jack mackerel, plus proportion based on sampling of unspecified mackerel 1977-85. ",, 
+MACKEREL, PACIFIC (CHUB) All fish landed as Pacific mackerel, plus proportion based on sampling of unspecified mackerel 1977-85",, 
+MACKEREL, UNSPECIFIED All fish landed as mackerel from 1978-80, plus later mackerel landings if not identified by species on fish receipt or by sampling 
+PERCH ,,,"Mixed species group containing just surfperches in northern Calif, but in southern Calif. also including blacksmith, halfmoon, opaleye and zebraperch - separable after 1976 
+ROCKFISH Mixed species group containing all species of rockfish (plus thornyheads until 1977) 
+SABLEFISH All fish landed as sablefish or blackcod
+SALMON All fish landed as salmon including, king or chinook, silver or coho, pink, and chum - separable after 1976 
+SANDDAB All fish landed as sanddabs, including Pacific, longfin and speckeled
+SARDINE, PACIFIC All fish landed in California as sardine, some were mixed with mackerel schools and calculated from sampling 1981 
+SCORPIONFISH, CALIFORNIA All fish landed as scorpionfish or as 'sculpin' used as common name for scorpionfish until 1978 
+SHARK All fish landed under various shark names separable from 1977 on 
+SHEEPHEAD, CALIFORNIA All fish landed as California sheephead
+SKATE All fish landed as skate, California skate, big skate
+SMELT All fish landed as smelt, whitebait, or silversides, including topsmelt and jacksmelt. 
+SOLE All landed as combined sole until 1954, primarily English, petrale, and rex before 1948, then Dover as well. Includes other soles and some turbot and small Calif.halibut as well. 
+SWORDFISH All fish landed as swordfish or broadbill swordfish
+THORNYHEAD Included as part of the rockfish catch until 1978, all fish landed as longspine, shortspine or combined thornyhead. 
+TUNA, ALBACOREAll albacore from California waters
+TUNA, BLUEFIN All bluefin tuna from California waters
+TUNA, SKIPJACK All skipjack and black skipjack tuna from California waters.
+TUNA, YELLOWFIN All yellowfin tuna from California waters
+TURBOT All fish landed as turbot, curlfin, diamond, C-O, and sharpridge or hornyhead. Some included in soles before 1931. 
+WHITEFISH, OCEAN All fish landed as ocean whitefish, or whitefish.
+WHITING, PACIFIC All fish landed as Pacific hake or Pacific whiting.
+YELLOWTAIL All fish landed as yellowtail (a member of the jack family). 
+Fish, Freshwater
+BLACKFISH, SACRAMENTO Freshwater fish Included with hardhead until 1969, also called greaser Orthodon microlepidotus (Fish Bulletin 74, p47.). 
+CARP All carp landed until 1971, some large quantities remove from Clear Lake 1931-36, Cyprinus carpio. 
+CATFISH All freshwater catfish landed, includes Forktail or channel catfish (Ictalurus catus) and and square-tail,Sacramento catfish or bullhead (Ameiurus nebulosus) 
+HARDHEAD All freshwater fish landed as hard head Mylopharodon conocephalus, includes blackfish in most years. 
+PIKEMINNOW, SACRAMENTO All freshwater fish landed as pike Ptychocheilus grandis (not true pike) (1928-1951) 
+SPLIT-TAIL All freshwater fish landed as split-tail, Pogonichtys macrolepidotus 1928-67) 
+Crustatcean
+CRAB, DUNGENESS All crabs landed as market crab or Dungeness crab, includes some rock crabs from Santa Barbara south. 
+CRAB, ROCK <#b> All crabs landed in any of the rock crab categories (not differentiated until 1995). 
+LOBSTER, CALIFORNIA SPINY All lobster called either California spiny or Pacific spiny lobster.
+PRAWN All types of prawns landed
+SHRIMP, BAY Almost all shrimp before 1952 were bay shrimp from SF Bay, separate category after 1951 
+SHRIMP, PACIFIC OCEAN Fishery on Pacific Ocean shrimp began in 1952.
+Echinoderm
+CUCUMBER, SEA California and warty sea cucumbers. Sea cucumber fishery began 1978. 
+URCHIN All types of sea urchins but primarioy red sea urchin.
+Mollusk
+ABALONE All types of abalone. Just red abalone until 1943, but all were grouped together until 1972. See California's Living Marine Resources, p91. 
+CLAMS All types of clams, included pismo clams until 1947, also cockles or littlencks (Chione sps.)., gaper, razor, washington, jackknife, and softshell. 
+OCTOPUS All types of octopus.
+SQUID, MARKET All market squid (Loligo opalescens)

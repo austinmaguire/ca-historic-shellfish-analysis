@@ -1,0 +1,341 @@
+* Abalone, Black - Black abalone (Haliotis cracherodii), 1972+.
+* Abalone, Flat - Flat abalone (Haliotis wallensis), 1972+.
+* Abalone, Green - Green abalone (Haliotis fulgens), 1972+.
+* Abalone, Pink - Pink abalone (Haliotis corrugata), 1972+.
+* Abalone, Pinto - Pinto abalone (Haliotis kamtschatkana), 1972+.
+* Abalone, Red - Red abalone (Haliotis ruffescens), 1972+.
+* Abalone, Threaded - Threadded abalone (Haliotis assimilis), 1972+. Now believed to be a southern sub-species of pinto (H. kamtschatkana) Calif.Living Mar.Res.p89.
+* Abalone, Unspecified - All abalone (Haliotis spp.) until 1972, all red abalone until 1950, red and pink 1950-1970, unspecified abalone after 1971. Calif.Living Mar.Res.p89.
+* Abalone, White - White abalone (Haliotis sorenseni), 1972+.
+* Anchovy, Deepbody - Deepbody anchovy (Anchoa compressa) mostly in bays and estuaries, 1978+.
+* Anchovy, Northern - Norhtern anchovy (Engraulis mordax) all anchovy landed EXCEPT deepbody anchovy, all years.
+* Barnacle - Barnacles 1980s. Presumably goose barnacles.
+* Barracuda, California - California barracuda (Sphyraena argentea) all years.
+* Bass, Barred Sand - Barred sand bass (Paralabrax nebulifer) 1978+, included in BASS, ROCK category before 1978.
+* Bass, Giant Sea - Giant or black sea bass (Sterolepis gigas) all years.
+* Bass, Kelp - Kelp bass (Paralabrax clathratus) 1978+, included in BASS, ROCK category before 1978.
+* Bass, Rock - Group name includes kelp bass, barred sand bass, and spotted sand bass, 1928-53 then sport only after 1953, some years 1978+.
+* Bass, Spotted Sand - Spotted sand bass (Paralabrax maculatofasciatus), small component of BASS, ROCK category before 1978.
+* Bass, Striped - Striped bass (Roccus saxatilis), Sport only after 1935.
+* Blackfish, Sacramento - Freshwater fish Included with hardhead until 1969, also called greaser (Orthodon microlepidotus) (Fish Bulletin 74, p47.). Freshwater catch not in database after 1971.
+* Blacksmith - Blacksmith (Chromis punctipinnis) included in Perch category before 1963.
+* Bonefish - Bonefisn (Albula vulpes), 1983 only.
+* Bonito, Pacific - Pacific Bonito or bonito tuna (Sarda chiliensis) all years.
+* Box Crab - Box crab 1981+.
+* Butterfish, Pacific - Pacific butterfish also called California pompano (Peprilus simillimus) all years.
+* Cabezon - Cabezon (Scorpaenichthys marmoratus) all years.
+* Cabrilla, Spotted - Spotted Cabrilla (Epinephelus analogus) a sea bass, 1930, 1983+.
+* Carp - All carp landed until 1971, some large quantities removed from Clear Lake 1931-36 (Cyprinus carpio). Freshwater catch not in database after 1971.
+* Catfish - (1928-52)All freshwater catfish landed, includes Forktail or channel catfish (Ictalurus catus) and square-tail, Sacramento catfish or bullhead (Ameiurus nebulosus). Freshwater catch not in database after 1971.
+* Chiton - Unspecified chitons 1983+.
+* Clam, California Jackknife - Jackknife clam (Tagelus californianus) 1931+, used for bait F&G Fish Bulletin 74 p161.
+* Clam, Common Washington - Washington clams (Saxidomus nuttalli) until 1983.
+* Clam, Gaper - Pacific gaper clam (Tresus nuttalli) and fat gaper (T. capax). 1931+.
+* Clam, Native Littleneck - Littleneck clams, cockles or chiones (Chione fluctifraga, and C. undullata., Protothaca staminia, and Tapes philippinarum).
+* Clam, Nothern Razor - Pacific razor clam (Siliqua patula), sport only after 1949.
+* Clam, Pismo - Pismo clam (Tivela stultorum) sport only after 1947, F&G Fish Bulletin 74 p165.
+* Clam, Purple - Purple clam, 1983 and 1994.
+* Clam, Rosy Razor - Rosy rasor clams, 1987+.
+* Clam, Soft Shelled - Soft shelled clams (Mya arenaria) before 1950.
+* Clam, Unspecified - Unspecified clams.
+* Cod, Pacific - Pacific cod (Gadus macrocephalus) 1977+.
+* Corbina, California - California corbina (Menticirrhus undulatus), a croaker 1981+.
+* Corvina, Shortfin - Shortfin corvina or shortfin seabass (Cynoscion parvipinnis), a croaker caught and sometimes landed mixed with white croakers 1932-41 and 1995+.
+* Crab, Brown Rock - Brown Rock crabs (Cancer antennarius) 1997+.
+* Crab, Claws - Claws from rock crabs before 1991 and sheep or spider crabs (Loxorhynchus grandis), 1986+.
+* Crab, Dungeness - Dungeness or market crab (Cancer magister) all years, may include some rock crabs from Santa Barbara south especially in 1940s.
+* Crab, King - King crab, presumably Paralithodes species, 1977+.
+* Crab, Pelagic Red - Pelagic red crabs. 1974-88, 1999.
+* Crab, Red Rock - Red rock crabs (Cancer productus) 1996+.
+* Crab, Rock - Rock crabs, unspecified, all years, however some may have been recorded as market crab before 1950.
+* Crab, Sand - Sand crabs (Emerita analoga) harvested for live bait, not in database before 1979.
+* Crab, Shore - Shore crabs (Hemigrapsus oregonensis or Pachygrapsus crassipes) harvested for live bait, not in database before 1978.
+* Crab, Spider - Sheep or spider crabs (Loxorhynchus grandis) 1968+.
+* Crab, Tanner - Crab landed as tanner crab, presumably Chionocetes species 1983+.
+* Crab, Yellow Rock - Yellow Rock crabs (Cancer anthonyi) 1995+.
+* Crayfish - Crayfish caught in rivers and Delta (Pacifastacus leniusculus or Procambarus clarkii) 1969-71, Freshwater catch not in database after 1971.
+* Croaker, Black - Black croaker (Cheilotrema saturnum) 1979+.
+* Croaker, Various Species - Croakers of various unidentified species 1978+, probably included in CROAKER, WHITE before 1978.
+* Croaker, White - White croaker also called kingfish (Genyonemus lineatus) may include other croakers especially queenfish (Seriphus politus).
+* Croaker, Yellowfin - Yellowfin croaker (Umbrina roncador) 1995+.
+* Crustacean, Unspecified - Assorted unspecifid crustaceans. 1969+.
+* Cucumber, Sea - Sea cucumbers giant (Parastichopus californicus) and warty (P.parvimensis) 1978+.
+* Cusk-Eel, Spotted - Spotted cusk-eel (Chilara taylori) 1994+.
+* Dolphinfish - Dolphinfish (Coryphaena hippururs), Fish NOT Mammals, occasional 1930-62, yearly 1972+.
+* Echinod, Unspecified - Unspecified echinoderms 1971-1993.
+* Eel - Various unspecified eels including moray, wolfeel, blennies and pricklebacks.
+* Eel, Blenny - Blennies, unidentified, 1931 only, probably pricklebacks.
+* Eel, California Moray - California Moray (Gymnothorax mordax) 1931-32, 1981+.
+* Escolar - Escolar (Lepidocybium flavobrunneum) 1994+.
+* Eulachon - Eulachon (Thaleichthys pacificus) 1987+.
+* Flounder, Arrowtooth - Arrowtooth flounder (Atheresthes stomias) 1955+, included with sole before 1951.
+* Flounder, Starry - Starry flounder (Platichthys stellatus), in unclassified flounder some years or ports, combine with FLOUNDER, UNCLASSIFIED 1930-46 and 1978+.
+* Flounder, Unclassified - Flounders, almost entirely starry flounder (Platichthys stellatus), combine with FLOUNDER, STARRY. Most years.
+* Flyingfish - Probably mostly California Flyingfish (Cypselurus californicus), all years.
+* Frogs - Freshwater frogs 1934-35 and 1971.
+* Garibaldi - Garibaldi (Hypsypops rubicundus), Not a commercial species, small amounts 1979+.
+* Goby, Bluebanded - Bluebanded goby, (Lythrypnus dalli) 1985+.
+* Goby, Yellowfin - Yellowfin goby (Acanthogobius flavimanus), 1990+.
+* Greenling, Kelp - Kelp greenling (Hexagrammos decagrammus) most years.
+* Grenadiers - Various grenadiers, Pacific grenadier (Coryaphaenoides acrolepis) and giant grenadier (Albatrossia pectoralis) and possibly others, 1972+.
+* Grouper - Various species of grouper (Mycteroperca) 1931, 1978+.
+* Grouper, Broomtail - Broomtail grouper (Mycteroperca xenarcha) 1985+.
+* Grunion, California - California Grunion (Leuresthes tenuis), not a commercial species, some 1978+.
+* Guitarfish, Shovelnose - Shovelnose guitarfish (Rhinobatos productus), 1977+.
+* Hagfish - Hagfish (Eptatretus spp.) 1983+.
+* Halfmoon - Halfmoon (Medialuna californicus), included in Perch category before 1954.
+* Halibut, California - California halibut (Paralicthys californicus), may include some Pacific halibut landings, all years.
+* Halibut, Pacific - Pacific halibut (Hippoglossus stenolepis), some landings may have been recorded as California halibut, most years.
+* Halibut, Unspecified - Unspecified halibut, may be either California halibut (Paralicthys californicus), or Pacific halibut (Hippoglossus stenolepis) in Northern California 1978+.
+* Hardhead - All freshwater fish landed as hard head (Mylopharodon conocephalus), includes SACRAMENTO BLACKFISH in most years. Freshwater catch not in database after 1971.
+* Herring Roe On Kelp - Pacific herring roe laid on kelp, 1987+.
+* Herring, Pacific - Pacific herring (Clupea pallasi) all years, combine with HERRING, WHOLE FISH WITH ROE.
+* Herring, Round - Round herring (Etrumeus teres), may be some mislabled Pacific herring included 1962, 1985, 1992+.
+* Herring, Whole Fish With Roe - Pacific herring (Clupea pallasi) containing roe, 1993+, combine with HERRING, PACIFIC.
+* Hitch - All fish landed as hitch (Lavinia exilicauda) 1967-71. Freshwater catch not in database after 1971.
+* Invertebrates, Colonial - Colonial Invertbrates, sponges and tunicates.
+* Jack Crevalle - Crevalle jack (Caranx hippos), 1992+.
+* Jacks - Various species of jacks, family Carangidae 1992+.
+* Kahawai - Kahawai or Australian Salmon (Arripis spp), 1989 + 1999.
+* Kelpfishes - Giant kelpfish (Heterostichus robustus) and other kelpfishes 1979+.
+* Killifish, California - California killifish (Funduous parvipinnis) 1993.
+* Limpet, Unspecified - Limpet unspecified, 1980+.
+* Lingcod - Lingcod (Ophiodon elongatus) called Pacific cultus before 1946, all years.
+* Lizardfish, California - California lizardfish (Synodus lucioceps) 1980+.
+* Lobster, California Spiny - California Spiny Lobster (Panulirus interruptus) all years.
+* Louvar - Louvar (Luvarus imperialis) 1984+.
+* Mackerel, Bullet - Bullet mackerel (Auxis fochei) 1976+.
+* Mackerel, Jack - Jack mackerel (Trachurus symmetricus) a jack, called Horse mackerel before 1945, see unspecified mackerel 1977-85.
+* Mackerel, Pacific - Pacific mackerel (Scomber japonicus), see unspecified mackerel 1977-85.
+* Mackerel, Unspecified - Mixture of jack mackerel and Pacific mackerel landed as mixed mackerel 1977+, for breakdown see Californias Living Marine Resources, p312-313.
+* Marlin, Striped - Striped marlin (Tetrapturus audax), not commercial after 1938.
+* Midshipman, Plainfin - Plainfin midshipman (Porichthys notatus) 1954, 1983+.
+* Mola, Common - Mola or Ocean sunfish (Mola mola) 1982+.
+* Mollusk, Unspecified - Unspecified mollusks 1954+.
+* Monkeyface Eel - Monkeyface-eel or monkeyface prickleback (Cebidichthys violaceus) 1981+.
+* Mudsucker, Longjaw - Longjaw mudsucker (Gilllichthys mirabilis) used for bait, 1971+.
+* Mullet, Striped - Mullet (Mugil cephalus), some landings are from the Salton Sea in 1940s.
+* Mussel - Mussels Californian (Mytilus californianus), Mediterrranean (M. galloprovincialis), and Bay (Mytelus edulis) primarily for bait 1928-1978.
+* Needlefish, California - Needlefish (Strongylura exilis) 1954+.
+* Octopus, Unspecified - Octopus unspecified (Polypus spp), all years.
+* Oilfish - Oilfish (Ruvettus pretiosus) 1996+.
+* Opah - Opah (Lampris regius) 1976+.
+* Opaleye - Opaleye (Girella nigricans) included in perch category before 1954.
+* Oyster, California - California native oyster (Ostreola lurida or O. conchaphila).
+* Oyster, Eastern - Eastern oyster (Crassostrea virginica) maricultured.
+* Oyster, European Flat - European flat oyster, maricultured.
+* Oyster, Giant Pacific - Crassostrea gigas and C. sikamea maricultured 1933+.
+* Oyster, Unspecified - Oysters unspecified 1995+.
+* Perch - Market category includes surfperch in northern Calif. and other perch-like species in Southern Calif. included opaleye, halfmoon and sargo until 1954, blacksmith until 1962. see Fish Bulletin 149 table 17.
+* Perch, Pacific Ocean - Rockfish landed as market category Pacific Ocean Perch (Sebastes alutus) 1977+, species identification required 1984+.
+* Pikeminnow, Sacramento - All freshwater fish landed as pike or Sacramento squawfish (Ptychocheilus grandis) (not true pike) 1928-1951. Freshwater catch not in database after 1971.
+* Pomfret, Pacific - Fish landed as Pacific Pomfret (Brama japonica).
+* Prawn, Golden - Prawns landed as Golden prawns, 1999+.
+* Prawn, Ridgeback - Ridgeback prawn (Sicyonia ingentis) fishery first developed in 1965.
+* Prawn, Spotted - Spot prawn (Pandalus platyceros) taken in the ocean 1952+.
+* Prawn, Unspecified - Probably Spot prawn (Pandalus platyceros) taken in the ocean at least until 1960s, then maybe mixed species.
+* Queenfish - Queenfish (Seraphus politus) a croaker, included with white croaker before 1972.
+* Ratfish - Ratfish (Hydrolagus colliei), occasional years.
+* Ray - Rays not identified to species 1977+.
+* Ray, Bat - Bat ray (Myliobatis californica) 1977+, may be included with skates in earlier years.
+* Ray, Pacific Electric - Pacific electric ray, (Torpedo californica) 1977+.
+* Rockfish, Aurora - Rockfish landed as market category aurora (Sebastes aurora) may include other species, 1993+.
+* Rockfish, Bank - Rockfish landed as market category bank (Sebastes rufus) may include other species, 1980+.
+* Rockfish, Black - Rockfish landed as market category black (Sebastes melanops) may include other species, 1977+.
+* Rockfish, Black-And-Yellow - Rockfish landed as market category black-and-yellow (Sebastes chrysomelas) may include other species, 1979+.
+* Rockfish, Blackgill - Rockfish landed as market category blackgill (Sebastes melanostomus) may include other species, 1980+.
+* Rockfish, Blue - Rockfish landed as market category blue (Sebastes mystinus) may include other species, 1977+.
+* Rockfish, Bocaccio - Bocaccio rockfish (Sebastes paucispinus), 1977+, species identification required from 1991+.
+* Rockfish, Bronzespotted - Rockfish landed as market category bronzespotted (Sebastes gilli) may include other species, 1991+.
+* Rockfish, Brown - Rockfish landed as market category brown includes widow (Sebastes entomelas) and copper (S. caurinus) as well as brown (S. auriculatus) 1977+. Also see Bolina.
+* Rockfish, Calico - Rockfish landed as market category calico (Sebastes dallii) may include other species.
+* Rockfish, Chameleon - Rockfish landed as market category chameleon (Sebastes phillipsi) may include other species, 1985+.
+* Rockfish, Chilipepper - Rockfish landed as market category chilipepper (Sebastes goodei) may include other species, 1979+.
+* Rockfish, China - Rockfish landed as market category china (Sebastes nebulosa) may include other species, 1979+.
+* Rockfish, Copper - Rockfish landed as market categories copper (Sebastes caurinus) and whitebelly (S. vexillarius) may include other species, 1977+.
+* Rockfish, Cowcod - Rockfish landed as market category cowcod (Sebastes levis) may include other species, 1979+.
+* Rockfish, Darkblotched - Rockfish landed as market category darkblotched (Sebastes crameri) may include other species, 1996+.
+* Rockfish, Flag - Rockfish landed as market category flag (Sebastes rubrivinctus) may include other species, 1979+.
+* Rockfish, Gopher - Rockfish landed as market category gopher may contain black-and-yellow (Sebastes chrysomelas), kelp (S. atrovirens) and others as well as gopher (Sebastes carnatus) 1979+.
+* Rockfish, Grass - Rockfish landed as market category grass (Sebastes rastrelliger) may include other species, 1979+.
+* Rockfish, Greenblotched - Rockfish landed as market category greenblotched (Sebastes rosenblatti) may include other species, 1990+.
+* Rockfish, Greenspotted - Rockfish landed as market category greenspotted (Sebastes chlorostictus) probably single species, 1979+.
+* Rockfish, Greenstriped - Rockfish landed as market category greenstriped (Sebastes elongatus) may include other species, 1978+.
+* Rockfish, Group Blue/Black - Rockfish landed as market category blue/black includes (Sebastes mystinus and S. Melanops) may include other species, 1994+.
+* Rockfish, Group Bocaccio/Chilir - Rockfish landed as market category bocaccio/chillipepper (Sebastes paucispinis and S. goodei) may include other species 1980-93.
+* Rockfish, Group Bolina - Rockfish landed as market category bolina includes brown (Sebastes auriculatus), copper (S. caurinus) and other species 1980+.
+* Rockfish, Group Canary/Vermillrock - Rockfish landed as market category canary/vermillion 1994+. May include other species. See also ROCKFISH, NOMINAL CANARY and ROCKFISH, VERMILLION.
+* Rockfish, Group Deep Red - Rockfish landed as market category deep reds may include various species of rockfish 1982+.
+* Rockfish, Group Gopher - Rockfish landed as market category gopher group includes gopher (Sebastes carnatus) and other species 1985+, see also ROCKFISH, GOPHER.
+* Rockfish, Group Red - Rockfish landed as market category group red may include various species of rockfish 1980+.
+* Rockfish, Group Rosefish - Rockfish landed as market category group rosefish, primarily splitnose (Sebastes diploproa) and aurora (S. aurora) 1982+.
+* Rockfish, Group Small Red - Rockfish landed as market category group smallred may include various species of small rockfish 1980+.
+* Rockfish, Honeycomb - Rockfish landed as market category honeycomb (Sebastes umbrosus) may include other species, 1993.
+* Rockfish, Kelp - Rockfish landed as market category kelp rockfish (Sebastes atrovirens) may include other species, 1980+ see ROCKFISH, GOPHER.
+* Rockfish, Mexican - Rockfish landed as market category Mexican Rockfish 2002+.
+* Rockfish, Nominal Canary - Rockfish landed as market category canary (Sebastes pinniger) may include other species before 1998, Canary Rockfish also in ROCKFISH, GROUP CANARY/VERMILLION 1994+.
+* Rockfish, Olive - Rockfish landed as market category olive (Sebastes serranoides) may include other species, 1979+.
+* Rockfish, Pink - Rockfish landed as market category pink (Sebastes eos) may include other species, 1987+.
+* Rockfish, Pinkrose - Rockfish landed as market category pinkrose (Sebastes simulator) may include other species, 1987+.
+* Rockfish, Quillback - Rockfish landed as market category quillback (Sebastes maliger) may include other species, 1994+.
+* Rockfish, Redbanded - Rockfish landed as market category redbanded (Sebastes nigrocinctus) may include other species, 1989+.
+* Rockfish, Rosethorn - Rockfish landed as market category rosethorn (Sebastes helvomaculatus) may include other small species, 1991+.
+* Rockfish, Rosy - Rockfish landed as market category rosy (Sebastes rosaceus) may include other small species, 1979+.
+* Rockfish, Shortbelly - Rockfish landed as market category shortbelly (Sebastes jordani) may include other species, 1979+.
+* Rockfish, Speckled - Rockfish landed as market category speckled (Sebastes ovalis) may include other species, 1979+.
+* Rockfish, Splitnose - Rockfish landed as market category splitnose (Sebastes diploproa) may include other species, 1977+.
+* Rockfish, Squarespot - Rockfish landed as market category squarespot (Sebastes hopkinsi) may include other species, 1994+.
+* Rockfish, Starry - Rockfish landed as market category starry (Sebastes constellatus) may include other species, 1977+.
+* Rockfish, Stripetail - Rockfish landed as market category stripetail (Sebastes saxicola) may include other species.
+* Rockfish, Swordspine - Rockfish landed as market category swordspine (Sebastes ensifer) may include other small species, 1996+.
+* Rockfish, Treefish - Rockfish landed as market category treefish (Sebastes serriceps) may include other species, 1980+.
+* Rockfish, Unspecified - Rockfish landed as market category unspecified rockfish, includes various species, 1928+.
+* Rockfish, Unspecified Nearshorer - Rockfish landed as market category unspecified rockfish nearshore, from 2000.
+* Rockfish, Unspecified Shelf - Rockfish landed as market category unspecified rockfish shelf, from 2000.
+* Rockfish, Unspecified Slope - Rockfish landed as market category unspecified rockfish slope, from 2000.
+* Rockfish, Vermillion - Rockfish landed as market category vermillion (Sebastes miniatus) may include other species, 1977+, see also ROCKFISH, GROUP CANARY/VERMILLION, 1977+.
+* Rockfish, Widow - Widow rockfish (Sebastes entomelas), 1977+, identification required from 1983+.
+* Rockfish, Yelloweye - Rockfish landed as market category yelloweye (Sebastes ruberrimus) may include other species, 1977+.
+* Rockfish, Yellowtail - Yellowtail rockfish (Sebastes flavidus) identification required from 1994+.
+* Sablefish - Sablefish or blackcod (Anoplopoma fimbria) all years.
+* Sailfish - Sailfish (Istiophorus platypterus) 1982 only.
+* Salema - Salema (Xenistius californiensis) 1971 and 1992 only.
+* Salmon - All species of salmon were recorded together before 1977, some unspecified landings 1978-85.
+* Salmon Roe, King - The roe from king or chinook salmon. 1994+.
+* Salmon, Chum - Chum salmon (Oncorhycus keta) 1977+, see before 1977.
+* Salmon, King - King or chinook salmon (Oncorhycus tshawytscha) 1977+, see before 1977.
+* Salmon, Pink - Pink salmon (Oncorhycus gorbuscha) 1977+, see before 1977.
+* Salmon, Silver - Silver or coho salmon (Oncorhycus kisutch) 1977+, see before 1977.
+* Sanddab - All species of sanddabs before 1990, and most of sanddab landings after 1990.
+* Sanddab, Longfin - Longfin sanddab, (Citharichthys xanthostigma) 1999+.
+* Sanddab, Pacific - Pacific sanddab (Citharichthys sordidus) 1990+.
+* Sanddab, Speckled - Speckled sanddab (Citharichthys stigmaeus) 1997+.
+* Sardine, Pacific - Pacific sardine also called Pacific pilchard (Sardinops sagax) all years.
+* Sargo - Sargo (Anisotremus davidsonii), 1954+, included in perch category until 1953.
+* Saury, Pacific - Pacific saury (Cololabis saria) occasional landings.
+* Scallop, Unspecified - Scallops unspecified species.
+* Scorpionfish, California - Spotted scorpionfish commonly called sculpin (Scorpeaena guttata), all years.
+* Sculpin, Pacific Staghorn - Pacific staghorn sculpin (Leptocottus armatus) 1935, 1950s, 1978+.
+* Sculpin, Yellowchin - Yellowchin sculpin (Icelinus quadriseriatus) 1994.
+* Sea Hares - Sea hares.
+* Sea Slug - Sea slug.
+* Sea Stars - Sea stars unspecified 1971+.
+* Seabass, White - White seabass (Atractoscion noblis), all years.
+* Senorita - Seniorita (Oxyjulis californica) 1973, 1994+.
+* Shad, American - American shad (Alosa sapidissima) Sactamento River delta fishery 1928-51, small amounts from 1986+.
+* Shad, Threadfin - Threadfin shad, (Dorosoma petenense) San Francisco Bay, 1987+.
+* Shark - All shark landings until 1976, unspecified sharks, 1977+.
+* Shark, Basking - Basking shark (Cetorhinus maximus), 1991+.
+* Shark, Bigeye Thresher - Big eye thresher shark (Alopias superciliosus), 1980+.
+* Shark, Black Tip - Black tip shark presumably (Carcharhinus limbatus), 1984, 1993, 1999.
+* Shark, Blue - Blue shark (Prionace glauca), 1977+.
+* Shark, Bonito (Mako) - Bonito or short fin mako shark (Isurus oxyrinchus), 1977+.
+* Shark, Brown Smooth - Brown smoothound shark (Mustelus henlei), 1977+.
+* Shark, Common Thresher - Common thresher shark (Alopias vulpinus), 1977+.
+* Shark, Cow - Cow sharks group sixgill (Hexanchus griseus) and sevengill (Notorynchus maculatus), see also Sevengill shark, 1977+.
+* Shark, Dusky - Dusky shark (Carcharhinus obscurus), 1977+.
+* Shark, Gray Smoothhound - Gray smoothound shark (Mustelus californicus), 1977+.
+* Shark, Horn - Horn shark (Heterodontus francisci), 1977+.
+* Shark, Leopard - Leopard shark (Triakis semifasciata), 1977+.
+* Shark, Pacific Angel - Pacific angel shark (Squatina californica), 1977+.
+* Shark, Pelagic Thresher - Pelagic thresher shark (Alopias pelagicus) sometimes confused with common thresher shark (Alopias vulpinus), 1977+.
+* Shark, Salmon - Salmon shark (Lamna ditropsis), 1977+.
+* Shark, Sevengill - Sevengill shark (Notorynchus maculatus) see also Cow shark, 1977+.
+* Shark, Sixgill - Sixgill shark (Hexanchus griseus) see also Cow sharks, 1979+.
+* Shark, Smooth Hammerhead - Smooth hammerhead shark (Sphyrna zygaena), 1977+.
+* Shark, Soupfin - Soupfin shark (Galeorhinus zyopterus), in general shark category prior to 1977 include high landings 1936-44 for vitamin A in livers, separate category 1928-29, 1977+.
+* Shark, Spiny Dogfish - Spiny dogfish (Squalus acanthias), 1977+.
+* Shark, Swell - Swell shark (Cephaloscyllium ventriosum), 1978+.
+* Shark, White - White shark (Carcharodon carcharias), 1979+.
+* Sheephead, California - California Sheephead (Semicossyphus pulcher), all years.
+* Shrimp, Bay - Bay Shrimp (Crago franciscorum and C. nigricauda) caught in San Francisco Bay, recorded in shrimp unspecified until 1952.
+* Shrimp, Brine - Brine shrimp (Artemia salina) taken in bays.
+* Shrimp, Coonstripe - Coonstripe or dock shrimp (Pandanlus danae) 1986+.
+* Shrimp, Ghost - Ghost shrimp (Callianassa californiensis) harvested for bait from bays 1978+.
+* Shrimp, Pacific Ocean - Pacific ocean shrimp (Pandulus jordani) 1952+.
+* Shrimp, Red Rock - Red rock shrimp (Lysmata californica) for live bait fishery developed in late 1950s but not in database until 1979.
+* Shrimp, Unspecified - Bay Shrimp (Crago franciscorum and C. nigricauda) until 1952, may be various unspecified species after.
+* Sierra - Sierra (Scomberomorus sierra), 1987 only.
+* Skate - Skates unspecified, may include rays also, all years.
+* Skate, Big - Big skate (Raja binoculata), 1983+.
+* Skate, California - California skate (Raja inornata), 1978+.
+* Skate, Thorny - Thorny skate, probably Thornback (Platyrhinoidis triseriata).
+* Smelt - Included all silversides and all smelts except those landed as whitebait until 1976, dominated by jacksmelt.
+* Smelt, Atherinid - Group called silversides, includes Jacksmelt (Atherinopsis californiensis) and Topsmelt (Atherinops affinis) 1978+, overlaps with individual species landings.
+* Smelt, Jacksmelt - Jacksmelt (Atherinopsis californiensis) a silverside 1986+ Majority in Smelt before 1977, in SMELT, ATHERINID 1976-85+.
+* Smelt, Night - Night smelt (Spirinchus starski), may include surf smelt as well 1976+, see also SMELT, TRUE.
+* Smelt, Surf - Surf smelt (Hypomesus pretiosus) may include night smelt as well 1976+, see also SMELT, TRUE.
+* Smelt, Topsmelt - Topsmelt (Atherinops affinis) a silverside. 1986+ Included in Smelt before 1977, in SMELT, ATHERINID 1976-85+.
+* Smelt, True - Combined market categoty of surf smelt (Hypomesus pretiosus) and Night smelt (Spirinchus starski) 1976+, overlaps with individual species landings.
+* Smelt, Whitebait - Combined market categoty of Whitebait smelt (Allosmerus elongatus) plus Night smelt (Spirinchus starski) F&G Fish Bulletin 74 p142.
+* Snail, Sea - Sea snails unspecified.
+* Snapper -Mexico- - Unknwn species landed as snapper, 1994 only.
+* Sole, Bigmouth - Big mouth sole (Hippoglossina stomata), 1979+.
+* Sole, Butter - Butter sole (Inopsetta isolepis), 1977+.
+* Sole, C-O - C-O sole or C-O turbot (Pleuronichthys coenosus).
+* Sole, Curlfin - Curfin sole or curfin turbot (Pleuronichthys decurrens), 1994+. May have been in either sole or turbot before 1994.
+* Sole, Dover - Dover sole (Microstomus pacificus) included with sole unspecified 1948-1954.
+* Sole, English - English sole (Parophrys vetulus) dominated the sole unspecified category before 1955. See F&G Bulletin 149, p65.
+* Sole, Fantail - Fantail sole (Xystreurys liolepis), 1977+.
+* Sole, Petrale - Petrale sole (Eopsetta jordani) 1954+, about 20% of sole unspecified before 1950. See F&G Bulletin 149, p65.
+* Sole, Rex - Rex sole (Glyptocephalus zachirus) 1954+, less than 10% of unspecified soles before 1954. See F&G Bulletin 149, p65.
+* Sole, Rock - Rock sole (Lepidopsetta bilineata), 1977+.
+* Sole, Sand - Sand sole (Psettichthys melanostictus), 1954+.
+* Sole, Slender - Slender sole (Lyopsetta exilis), 1979+.
+* Sole, Unclassified - All soles, dominated by English sole through 1948. Dover sole dominant 1949-53. Only unspecified soles after 1954. See F&G Bulletin 149, p65.
+* Split-Tail - All freshwater fish landed as split-tail (Pogonichtys macrolepidotus) 1928-67. Freshwater catch not in database after 1971.
+* Squid, Jumbo - Jumbo squid (Dosididicus gigas) 1978+.
+* Squid, Market - Market squid (Loligo opalescens) all years.
+* Stickleback, Threespine - Threespine stickleback (Gasterosteus auleatus), San Francisco Bay, 1976+.
+* Stingray - Unspecified rays, 1928 and 1977+.
+* Sturgeon - White sturgeon (Acipenser transmontanus) not a commercial species, 1978+.
+* Sucker, Western - All freshwater fish landed as Sacramento or Western sucker (Catostomus occidentalis and other species) 1928-63. Freshwater catch not in database after 1971.
+* Surfperch - Unclassified surfperch 1977+. Included in perch category before 1977.
+* Surfperch, Barred - Barred surfperch (Amphistichus argenteus) 1977+. Included in perch category before 1977.
+* Surfperch, Black - Black surfperch (Embiotoca jacksoni) 1977+. Included in perch category before 1977.
+* Surfperch, Calico - Calico surfperch (Amphistichus koelzi) 1980+. Included in perch category before 1977.
+* Surfperch, Dwarf - Dwarf surfperch (Micrometrus minimus) 1983, 1996. Included in perch category before 1977.
+* Surfperch, Pile - Pile surfperch (Damalicthys vacca) 1979+. Included in perch category before 1977.
+* Surfperch, Pink - Pink surfperch (Zalembius rosaceus).
+* Surfperch, Rainbow - Rainbow surfperch (Hypsurus caryi) 1980+. Included in perch category before 1977.
+* Surfperch, Redtail - Redtail Surfperch (Amphistichus rhodoterus), 1979+. Included in perch category before 1977.
+* Surfperch, Rubberlip - Rubberlip surfperch (Rhacochilus toxotes), 1979+. Included in perch category before 1977.
+* Surfperch, Shiner - Shiner surfperch (Cymatogaster aggregata) 1979+. Included in perch category before 1977.
+* Surfperch, Walleye - Walleye surfperch (Hyperprosopon argenteum) 1977+. Included in perch category before 1977.
+* Surfperch, White - White surfperch (Phanerodon furcatus) 1977+. Included in perch category before 1977.
+* Swordfish - Swordfish (Xiphias gladius), all years. Also called broadbill swordfish, landings are recorded as dressed weights, multiply by 1.45 to convert to weight of whole fish.
+* Thornyhead - Market categories thornyhead and thornyhead rockfish (Sebastolobus spp.), may include other species, 1977+, included in rockfish before 1977.
+* Thornyhead, Longspine - Longspine thornyhead (Sebastolobus altivelis) 1995+, in Thornyhead 1978-95, in rockfish before 1977.
+* Thornyhead, Shortspine - Shortspine thornyhead (Sebastolobus alascanus) 1995+, in Thornyhead 1978-95, in rockfish before 1977.
+* Tomcod, Pacific - Pacific tomcod (Microgadus proximus) many years.
+* Tonguefish, California - California tonguefish (Symphurus atricauda) 1982+, included in sole unspecified before 1982.
+* Triggerfish - Triggerfish - possibly any of these triggerfish: finescale (Balistes polylepis), black (Mellichthys niger) or redtail (Xanthicthys mento) 1980+.
+* Tuna, Albacore - Albacore tuna (Thunnus alalunga) only landings from California waters catch, all years.
+* Tuna, Bigeye - Bigeye tuna (Thunnus obesus) only landings from California waters catch, 1977+.
+* Tuna, Blackfin - Tuna landed as Blackfin tuna, presumably from common name (Thunnus atlanticus) which is a Western Atlantic species, 1985-93.
+* Tuna, Bluefin - Bluefin tuna (Thunnus thynnus) only landings from California waters catch, all years.
+* Tuna, Skipjack - Skipjack tuna (Euthynnus pelamis) only landings from California waters catch, most years.
+* Tuna, Skipjack, Black - Black skipjack (Euthynnus lineatus) only landings from California waters catch, 1972+.
+* Tuna, Unspecified - Any species of tuna unspecified, presumably landings from California waters catch, 1978+.
+* Tuna, Yellowfin - Yellowfin tuna (Thunnus albacares) only landings from California waters catch, most years.
+* Turbot, Diamond - Diamond turbot (Hypsopsetta guttulata) 1992.
+* Turbot, Hornyhead - Hornyhead turbot (Pleuronichthys verticalis) 1995+.
+* Turbot, Spotted - Spotted turbot (Pleuronichthys ritteri) none.
+* Turbot, Unspecified - All species of turbot before 1992, unclassified turbot after 1991.
+* Turtles, Freshwater - Fresh or brackish water turtle (or terrapin) species 1928-1931.
+* Turtles, Marine - Primarily green sea turtles, 1928.
+* Unspecified Fish - Unspecified marine fish for which identification was not made or in question, and those totaling small amounts before 1980.
+* Unspecified Trawled Fish - Unspecified trawl caught groundfish, in the 1960s, this was sold for animal food to fur breeders.
+* Urchin, Lytechinus - Sea Urchin landed as lytechinus 1983+.
+* Urchin, Purple Sea - Purple sea urchin (Strongylocentrotus purperatus) 1985+.
+* Urchin, Red Sea - Red sea urchin (Strongylocentrotus franciscanus) 1986+. See Unspecified sea urchins 1971-85.
+* Urchin, Unspecified - Unspecified sea urchins, probably red urchins. 1971-1985.
+* Wahoo - Wahoo (Acanthocybium solanderi) only landings from California waters catch, 1975+.
+* Whelk - Welks, probably Kellets Welk, 1930s and 1979+.
+* Whitefish, Ocean - Ocean whitefish (Caulolatilus princeps) all years.
+* Whiting, Pacific - Pacific whiting, also called Pacific Hake (Merluccius productus) all years.
+* Wolf-Eel - Wolf-eel (Anarrhichthys ocellatus) 1977+, included in the category eels befoe 1977.
+* Worms, Marine - Marine worms unspecified, 1986+.
+* Wrasse, Rock - Rock wrasse (Halichoeres semicinctus) 1984+.
+* Yellowtail - Yellowtail (Seriola dorsalis) only landings from California waters catch, all years.
+* Zebraperch - Zebraperch (Hermosilla azurea) 1977+, included in perch category before 1977.

@@ -1,0 +1,24 @@
+name: pydap
+channels:
+  - conda-forge # Adding conda-forge as it has more up-to-date packages
+  - defaults
+dependencies:
+  - python=3.12
+  - ipython
+  - jupyterlab
+  - matplotlib
+  - numpy>=2.0
+  - pandas
+  - pydap
+  - scipy
+  - seaborn
+  - xarray
+  # Additional suggested packages for fisheries data analysis
+  - statsmodels # For statistical analysis
+  - openpyxl # For Excel file support
+  - notebook # For Jupyter notebook support
+  - pip # For pip installations if needed
+  - pip: # Packages to be installed via pip if not available in conda
+      - erddapy # For working with ERDDAP servers
+
+prefix: /opt/anaconda3/envs/pydap
