@@ -10,6 +10,7 @@ data/external/*
 
 # Documentation
 docs/erddap_info/
+docs/report_for_final.md
 
 # Image files
 images/*
@@ -66,3 +67,4 @@ models/
 # Course Final
 AMaguire_PYT305_Final.ipynb
 ml_for_py_final.ipynb
+notebooks/model_planning.ipynb
