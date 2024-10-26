@@ -63,4 +63,6 @@ models/
 *.zip
 *.tar.gz
 
+# Course Final
+AMaguire_PYT305_Final.ipynb
 ml_for_py_final.ipynb
