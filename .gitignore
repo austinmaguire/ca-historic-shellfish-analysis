@@ -1,1 +1,62 @@
+
+# Data files
 data/raw/california_fish_landings_1928_2002.csv
+data/raw/*
+data/processed/*
+data/external/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/external/.gitkeep
+
+# Image files
+images/*
+!images/.gitkeep
+images/figures/*
+!images/figures/.gitkeep
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local ML model files
+*.pkl
+*.h5
+models/
+
+# Large files
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
+
+ml_for_py_final.ipynb
