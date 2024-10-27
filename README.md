@@ -10,6 +10,8 @@ This project analyzes historical trends in California's shellfish fisheries usin
 
 - **Dataset**: California Fish Market Catch Landings, Long List, 1928-2002, Monthly
 - **Provider**: NOAA ERDDAP/CA DFG
+- **Website (data access)**: https://upwell.pfeg.noaa.gov/erddap/tabledap/erdCAMarCatLM.html
+- **Website (database information)**: https://oceanview.pfeg.noaa.gov/las_fish1/doc/names_describe.html
 - **Dataset ID**: erdCAMarCatLM
 - **Access Method**: ERDDAP tabledap API via PyDAP
 
