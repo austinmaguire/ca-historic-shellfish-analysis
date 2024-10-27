@@ -1,4 +1,4 @@
-# California Historical Shellfish Fisheries Analysis
+# California Historic Shellfish Fisheries Analysis
 
 Analysis of commercial shellfish landings in California from 1928-2002 using data from NOAA's ERDDAP server and the California Department of Fish and Game.
 
