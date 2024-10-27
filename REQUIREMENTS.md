@@ -24,7 +24,7 @@ conda activate pydap
 
 If you prefer to install packages manually, the following packages are required:
 
-Core Dependencies:
+**Core Dependencies:**
 
 - Python 3.12
 - ipython
@@ -37,12 +37,24 @@ Core Dependencies:
 - seaborn
 - xarray
 
-Additional Dependencies:
+**Additional Dependencies:**
+
+Data Analysis & Machine Learning:
 
 - statsmodels (for statistical analysis)
+- scikit-learn (for machine learning models)
+
+Visualization:
+
+- seaborn (for statistical visualizations)
+- plotly (for interactive plots)
+
+Data Handling:
+
 - openpyxl (for Excel file support)
 - notebook (for Jupyter notebook support)
 - erddapy (for ERDDAP server interactions)
+- requests (for API interactions)
 
 To install manually:
 
@@ -54,10 +66,10 @@ conda create -n pydap python=3.12
 conda activate pydap
 
 # Install conda packages
-conda install ipython jupyterlab matplotlib numpy pandas pydap scipy seaborn xarray statsmodels openpyxl notebook
+conda install ipython jupyterlab matplotlib numpy pandas pydap scipy seaborn xarray statsmodels scikit-learn openpyxl notebook
 
 # Install pip packages
-pip install erddapy
+pip install erddapy plotly requests
 ```
 
 ## Verifying Installation
@@ -106,6 +118,7 @@ This environment is configured for analyzing California historical shellfish fis
 - `pandas` and `numpy` for data manipulation
 - `matplotlib` and `seaborn` for visualization
 - `statsmodels` for time series analysis
+- `scikit-learn` for machine learning models
 
 The environment is optimized for:
 
