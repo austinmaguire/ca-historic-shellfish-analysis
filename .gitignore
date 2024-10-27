@@ -2,10 +2,10 @@
 # Data files
 data/raw/california_fish_landings_1928_2002.csv
 data/raw/*
-data/processed/*
+data/processed/ca_all_shellfish_landings.csv
+data/processed/shellfish_landings_clean.csv
 data/external/*
 !data/raw/.gitkeep
-!data/processed/.gitkeep
 !data/external/.gitkeep
 
 # Documentation
@@ -18,6 +18,14 @@ images/*
 images/figures/*
 !images/figures/.gitkeep 
 
+# Scratch notebooks 
+notebooks/scratch/fishing_success_plan.ipynb
+notebooks/scratch/model_planning.ipynb
+notebooks/scratch/model_planning_run1.ipynb
+notebooks/scratch/model_planning_run2.ipynb
+notebooks/scratch/Final_no_graphs.ipynb 
+notebooks/scratch/*
+notebooks/scratch
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -67,6 +75,5 @@ models/
 # Course Final
 AMaguire_PYT305_Final.ipynb
 ml_for_py_final.ipynb
-notebooks/model_planning.ipynb
-notebooks/model_planning_run1.ipynb
-notebooks/model_planning_run2.ipynb
+notebooks/01_AMaguire_PYT305_Final.ipynb
+notebooks/02_AMaguire_PYT305_Final.ipynb

@@ -1,0 +1,179 @@
+Fishing Success Distribution Summary
+=================================
+
+By Species Group:
+-----------------
+species_group    fishing_success
+Abalone          excellent          1306
+                 fair               1303
+                 good               1305
+                 poor               1316
+Clams            excellent           546
+                 fair                550
+                 good                536
+                 poor                552
+Crabs            excellent          1638
+                 fair               1637
+                 good               1635
+                 poor               1639
+Oysters          excellent           576
+                 fair                575
+                 good                572
+                 poor                576
+Shrimp & Prawns  excellent           993
+                 fair                991
+                 good                993
+                 poor               1000
+
+By Individual Species:
+--------------------
+species                     fishing_success
+abalone, black              excellent          163
+                            fair               163
+                            good               162
+                            poor               163
+abalone, flat               good                 4
+                            poor                 6
+abalone, green              excellent          169
+                            fair               169
+                            good               169
+                            poor               169
+abalone, pink               excellent          189
+                            fair               189
+                            good               188
+                            poor               189
+abalone, pinto              excellent            7
+                            fair                 7
+                            good                 6
+                            poor                 7
+abalone, red                excellent          247
+                            fair               247
+                            good               247
+                            poor               248
+abalone, threaded           excellent           39
+                            fair                39
+                            good                39
+                            poor                40
+abalone, unspecified        excellent          418
+                            fair               418
+                            good               417
+                            poor               418
+abalone, white              excellent           74
+                            fair                71
+                            good                73
+                            poor                76
+clam, california jackknife  excellent          111
+                            fair               111
+                            good               110
+                            poor               111
+clam, common washington     excellent           96
+                            fair                96
+                            good                96
+                            poor                96
+clam, gaper                 excellent           73
+                            fair                78
+                            good                65
+                            poor                75
+clam, native littleneck     excellent           73
+                            fair                73
+                            good                72
+                            poor                73
+clam, pismo                 excellent           97
+                            fair                97
+                            good                97
+                            poor                97
+clam, purple                poor                 1
+clam, rosy razor            excellent            4
+                            fair                 3
+                            good                 4
+                            poor                 6
+clam, unspecified           excellent           92
+                            fair                92
+                            good                92
+                            poor                93
+crab, brown rock            excellent            5
+                            fair                 5
+                            good                 5
+                            poor                 6
+crab, dungeness             excellent          654
+                            fair               654
+                            good               654
+                            poor               654
+crab, king                  excellent           40
+                            fair                40
+                            good                40
+                            poor                40
+crab, red rock              excellent           20
+                            fair                20
+                            good                19
+                            poor                20
+crab, rock                  excellent          689
+                            fair               689
+                            good               688
+                            poor               689
+crab, spider                excellent          207
+                            fair               207
+                            good               207
+                            poor               207
+crab, tanner                excellent            8
+                            fair                 7
+                            good                 7
+                            poor                 8
+crab, yellow rock           excellent           15
+                            fair                15
+                            good                15
+                            poor                15
+oyster, california          excellent           65
+                            fair                64
+                            good                64
+                            poor                65
+oyster, eastern             excellent          152
+                            fair               152
+                            good               152
+                            poor               152
+oyster, european flat       excellent           13
+                            fair                13
+                            good                12
+                            poor                13
+oyster, giant pacific       excellent          345
+                            fair               345
+                            good               344
+                            poor               345
+oyster, unspecified         excellent            1
+                            fair                 1
+                            poor                 1
+prawn, golden               poor                 1
+prawn, ridgeback            excellent          141
+                            fair               139
+                            good               140
+                            poor               142
+prawn, spotted              excellent          327
+                            fair               327
+                            good               327
+                            poor               328
+prawn, unspecified          excellent           29
+                            fair                29
+                            good                29
+                            poor                29
+shrimp, bay                 excellent          110
+                            fair               110
+                            good               110
+                            poor               110
+shrimp, pacific ocean       excellent          193
+                            fair               193
+                            good               193
+                            poor               193
+shrimp, red rock            excellent           31
+                            fair                31
+                            good                32
+                            poor                35
+shrimp, unspecified         excellent          162
+                            fair               162
+                            good               162
+                            poor               162
+
+Total Observations:
+-----------------
+Total records: 20239
+Number of species groups: 5
+Number of individual species: 38

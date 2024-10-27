@@ -1,0 +1,245 @@
+Shellfish Landings Comprehensive Summary
+=====================================
+
+# NOTE: First version of calculating fishing_success by the monthly_mean_landing of that species for that month across all years 
+# Saved for reference but not well distributed / poorly describing the broader trends
+
+Summary by Species
+=================
+                           landings                                     \
+                              count       mean   median        std min   
+species                                                                  
+abalone, black                  651   16046.63   5208.0   30244.89   2   
+abalone, flat                    10       7.10      1.0      14.34   1   
+abalone, green                  676    2562.06    616.5    5167.29   2   
+abalone, pink                   755    4803.74   1831.0    6642.21   2   
+abalone, pinto                   27      26.52     10.0      39.13   1   
+abalone, red                    989   11778.86   3645.0   18584.60   2   
+abalone, threaded               157     167.32     72.0     232.77   1   
+abalone, unspecified           1671   88350.01  43277.0  105209.56   2   
+abalone, white                  294    1775.23    139.5    3454.04   2   
+clam, california jackknife      443     892.77    357.0    1425.59   3   
+clam, common washington         384    1116.76    367.5    1482.50   5   
+clam, gaper                     291     225.72    160.0     214.10   5   
+clam, native littleneck         291    2207.10    812.0    3386.35   1   
+clam, pismo                     388    6429.94   4558.5    5811.08  14   
+clam, purple                      1      16.00     16.0        NaN  16   
+clam, rosy razor                 17     123.76     52.0     199.10   3   
+clam, unspecified               369    2559.00    506.0    6826.76   1   
+crab, brown rock                 21     302.43    134.0     385.31   4   
+crab, dungeness                2616  229022.66  11796.0  742384.40   1   
+crab, king                      160     100.45     43.5     161.12   1   
+crab, red rock                   79     967.03    495.0    1221.24   1   
+crab, rock                     2755   15574.25   5139.0   22736.41   1   
+crab, spider                    828    1873.54   1448.0    1767.31   1   
+crab, tanner                     30    1629.17    210.5    5477.54   3   
+crab, yellow rock                60    5153.28   3172.5    5482.22   3   
+oyster, california              258    3234.70   1637.0    4079.65   6   
+oyster, eastern                 608   13732.46   7487.5   25759.41   2   
+oyster, european flat            51     383.31    118.0     540.60   4   
+oyster, giant pacific          1379   75264.17  20264.0  202524.21   3   
+oyster, unspecified               3      16.33      5.0      21.39   3   
+prawn, golden                     1      25.00     25.0        NaN  25   
+prawn, ridgeback                562   17470.09   1329.5   37062.69   1   
+prawn, spotted                 1309    6345.86   2849.0    8991.40   1   
+prawn, unspecified              116     306.48    190.0     487.97   7   
+shrimp, bay                     440   15464.43   9017.5   27850.35   2   
+shrimp, pacific ocean           772  299638.74  43862.5  604487.15   3   
+shrimp, red rock                129      48.80     14.0     184.49   1   
+shrimp, unspecified             648   54024.94   1925.5  104174.93   1   
+
+                                                \
+                                max        sum   
+species                                          
+abalone, black               284228   10446353   
+abalone, flat                    46         71   
+abalone, green                42113    1731952   
+abalone, pink                 44385    3626826   
+abalone, pinto                  170        716   
+abalone, red                 137272   11649296   
+abalone, threaded              1616      26270   
+abalone, unspecified         698975  147632860   
+abalone, white                25470     521918   
+clam, california jackknife     8696     395495   
+clam, common washington        9916     428835   
+clam, gaper                    1032      65684   
+clam, native littleneck       19000     642266   
+clam, pismo                   27114    2494818   
+clam, purple                     16         16   
+clam, rosy razor                821       2104   
+clam, unspecified             65000     944271   
+crab, brown rock               1491       6351   
+crab, dungeness             8871792  599123273   
+crab, king                     1340      16072   
+crab, red rock                 5167      76395   
+crab, rock                   128513   42907058   
+crab, spider                   9508    1551288   
+crab, tanner                  30301      48875   
+crab, yellow rock             19869     309197   
+oyster, california            25501     834552   
+oyster, eastern              268680    8349337   
+oyster, european flat          2305      19549   
+oyster, giant pacific       1567818  103789289   
+oyster, unspecified              41         49   
+prawn, golden                    25         25   
+prawn, ridgeback             315566    9818189   
+prawn, spotted                70473    8306729   
+prawn, unspecified             4372      35552   
+shrimp, bay                  217434    6804349   
+shrimp, pacific ocean       3890438  231321107   
+shrimp, red rock               1884       6295   
+shrimp, unspecified          843121   35008159   
+
+                                                              fishing_success  
+                                                                     <lambda>  
+species                                                                        
+abalone, black              {'poor': 163, 'fair': 163, 'excellent': 163, '...  
+abalone, flat                                          {'poor': 6, 'good': 4}  
+abalone, green              {'fair': 169, 'poor': 169, 'excellent': 169, '...  
+abalone, pink               {'poor': 189, 'excellent': 189, 'fair': 189, '...  
+abalone, pinto              {'excellent': 7, 'fair': 7, 'poor': 7, 'good': 6}  
+abalone, red                {'poor': 248, 'fair': 247, 'good': 247, 'excel...  
+abalone, threaded           {'poor': 40, 'excellent': 39, 'fair': 39, 'goo...  
+abalone, unspecified        {'poor': 418, 'fair': 418, 'excellent': 418, '...  
+abalone, white              {'poor': 76, 'excellent': 74, 'good': 73, 'fai...  
+clam, california jackknife  {'fair': 111, 'poor': 111, 'excellent': 111, '...  
+clam, common washington     {'good': 96, 'excellent': 96, 'poor': 96, 'fai...  
+clam, gaper                 {'fair': 78, 'poor': 75, 'excellent': 73, 'goo...  
+clam, native littleneck     {'fair': 73, 'poor': 73, 'excellent': 73, 'goo...  
+clam, pismo                 {'poor': 97, 'fair': 97, 'good': 97, 'excellen...  
+clam, purple                                                      {'poor': 1}  
+clam, rosy razor            {'poor': 6, 'good': 4, 'excellent': 4, 'fair': 3}  
+clam, unspecified           {'poor': 93, 'good': 92, 'fair': 92, 'excellen...  
+crab, brown rock            {'poor': 6, 'fair': 5, 'excellent': 5, 'good': 5}  
+crab, dungeness             {'good': 654, 'fair': 654, 'poor': 654, 'excel...  
+crab, king                  {'excellent': 40, 'good': 40, 'poor': 40, 'fai...  
+crab, red rock              {'poor': 20, 'fair': 20, 'excellent': 20, 'goo...  
+crab, rock                  {'poor': 689, 'fair': 689, 'excellent': 689, '...  
+crab, spider                {'poor': 207, 'fair': 207, 'good': 207, 'excel...  
+crab, tanner                {'excellent': 8, 'poor': 8, 'fair': 7, 'good': 7}  
+crab, yellow rock           {'poor': 15, 'fair': 15, 'good': 15, 'excellen...  
+oyster, california          {'poor': 65, 'excellent': 65, 'good': 64, 'fai...  
+oyster, eastern             {'fair': 152, 'poor': 152, 'good': 152, 'excel...  
+oyster, european flat       {'fair': 13, 'excellent': 13, 'poor': 13, 'goo...  
+oyster, giant pacific       {'excellent': 345, 'fair': 345, 'poor': 345, '...  
+oyster, unspecified                    {'excellent': 1, 'fair': 1, 'poor': 1}  
+prawn, golden                                                     {'poor': 1}  
+prawn, ridgeback            {'poor': 142, 'excellent': 141, 'good': 140, '...  
+prawn, spotted              {'poor': 328, 'fair': 327, 'excellent': 327, '...  
+prawn, unspecified          {'poor': 29, 'excellent': 29, 'good': 29, 'fai...  
+shrimp, bay                 {'poor': 110, 'excellent': 110, 'good': 110, '...  
+shrimp, pacific ocean       {'fair': 193, 'poor': 193, 'good': 193, 'excel...  
+shrimp, red rock            {'poor': 35, 'good': 32, 'excellent': 31, 'fai...  
+shrimp, unspecified         {'good': 162, 'fair': 162, 'poor': 162, 'excel...  
+
+Summary by Species Group
+=======================
+                landings                                             \
+                   count      mean   median        std min      max   
+species_group                                                         
+Abalone             5230  33582.46   3334.0   71789.20   1   698975   
+Clams               2184   2277.24    459.0    4524.84   1    65000   
+Crabs               6549  98341.50   3892.0  481356.13   1  8871792   
+Oysters             2299  49148.66  12213.0  160643.19   2  1567818   
+Shrimp & Prawns     3977  73246.27   3515.0  292495.99   1  3890438   
+
+                                                              fishing_success  
+                       sum                                           <lambda>  
+species_group                                                                  
+Abalone          175636262  {'poor': 1316, 'excellent': 1306, 'good': 1305...  
+Clams              4973489  {'poor': 552, 'fair': 550, 'excellent': 546, '...  
+Crabs            644038509  {'poor': 1639, 'excellent': 1638, 'fair': 1637...  
+Oysters          112992776  {'poor': 576, 'excellent': 576, 'fair': 575, '...  
+Shrimp & Prawns  291300405  {'poor': 1000, 'excellent': 993, 'good': 993, ...  
+
+Summary by Port
+===============
+              landings                                                         \
+                 count       mean   median        std min      max        sum   
+port                                                                            
+Eureka            2177  326130.97  16164.0  860690.10   1  8871792  709987114   
+Los Angeles       3686   16185.93   2055.0   42871.13   1   602343   59661339   
+Monterey          2239   15444.26    821.0   58627.62   1   698975   34579693   
+San Diego         2682    6396.16   1246.5   13229.64   1   125081   17154507   
+San Francisco     4453   55237.16   7930.0  178511.79   1  2949331  245971055   
+Santa Barbara     5002   32304.62   7618.5   61747.19   1   439122  161587733   
+
+                                                 fishing_success  
+                                                        <lambda>  
+port                                                              
+Eureka         {'excellent': 822, 'good': 588, 'fair': 398, '...  
+Los Angeles    {'good': 1116, 'poor': 878, 'excellent': 855, ...  
+Monterey       {'poor': 988, 'fair': 801, 'good': 264, 'excel...  
+San Diego      {'fair': 840, 'poor': 816, 'good': 684, 'excel...  
+San Francisco  {'good': 1227, 'fair': 1150, 'excellent': 1087...  
+Santa Barbara  {'excellent': 1767, 'good': 1162, 'poor': 1043...  
+
+Summary by Year
+===============
+     landings                                                      \
+        count      mean  median        std min      max       sum   
+year                                                                
+1928      135  65694.15  6744.0  110685.08  10   409680   8868710   
+1929      141  64367.00  7393.0  130444.50  24   698975   9075747   
+1930      143  61121.85  5245.0  117199.63  12   520728   8740425   
+1931      172  51831.66  4282.5  103851.11   6   535950   8915046   
+1932      194  44435.81  4399.5   95367.77   3   567752   8620548   
+...       ...       ...     ...        ...  ..      ...       ...   
+1998      317  48104.43  3319.0  388395.69   1  6782668  15249104   
+1999      320  49489.32  2071.0  351581.19   1  5930736  15836582   
+2000      296  41091.43  2529.5  215309.85   1  3247191  12163063   
+2001      283  32737.69  2802.0  132633.58   2  1246153   9264766   
+2002      278  48989.42  3887.0  225297.13   2  2342729  13619060   
+
+                                        fishing_success  
+                                               <lambda>  
+year                                                     
+1928  {'excellent': 59, 'good': 33, 'poor': 22, 'fai...  
+1929  {'excellent': 63, 'fair': 30, 'good': 26, 'poo...  
+1930  {'excellent': 68, 'good': 34, 'poor': 21, 'fai...  
+1931  {'excellent': 82, 'fair': 40, 'good': 30, 'poo...  
+1932  {'excellent': 73, 'good': 49, 'poor': 38, 'fai...  
+...                                                 ...  
+1998  {'fair': 87, 'excellent': 86, 'good': 75, 'poo...  
+1999  {'fair': 99, 'poor': 79, 'good': 75, 'excellen...  
+2000  {'poor': 80, 'good': 78, 'fair': 75, 'excellen...  
+2001  {'good': 80, 'excellent': 73, 'poor': 67, 'fai...  
+2002  {'good': 88, 'fair': 77, 'excellent': 64, 'poo...  
+
+[75 rows x 8 columns]
+
+Summary by Month
+================
+      landings                                                        \
+         count       mean  median        std min      max        sum   
+month                                                                  
+1         1732   81339.25  3351.0  428210.11   1  6296047  140879583   
+2         1405   71983.84  2723.0  377791.17   1  7848953  101137299   
+3         1832   49641.41  3267.0  264711.13   1  6975731   90943055   
+4         1859   59535.26  3954.0  248319.91   1  5162352  110676053   
+5         1831   62421.21  4555.0  247516.22   1  5241480  114293242   
+6         1780   51648.12  4310.5  208735.62   1  3662269   91933651   
+7         1700   51969.84  4307.0  198618.66   1  3653946   88348729   
+8         1364   57386.98  3596.0  239923.68   2  3890438   78275844   
+9         1565   37571.88  3016.0  152353.83   1  3094194   58799996   
+10        1622   31524.33  2790.5  127096.49   1  2742947   51132462   
+11        1753   52019.52  2529.0  211810.76   1  2949331   91190211   
+12        1796  117667.77  3036.5  632758.98   1  8871792  211331316   
+
+                                         fishing_success  
+                                                <lambda>  
+month                                                     
+1      {'excellent': 447, 'fair': 441, 'poor': 427, '...  
+2      {'poor': 378, 'fair': 362, 'excellent': 340, '...  
+3      {'fair': 462, 'excellent': 462, 'good': 458, '...  
+4      {'excellent': 495, 'good': 482, 'fair': 457, '...  
+5      {'good': 494, 'excellent': 484, 'fair': 427, '...  
+6      {'good': 493, 'poor': 445, 'excellent': 438, '...  
+7      {'excellent': 467, 'good': 443, 'poor': 402, '...  
+8      {'poor': 371, 'fair': 347, 'good': 330, 'excel...  
+9      {'fair': 422, 'good': 390, 'poor': 385, 'excel...  
+10     {'poor': 438, 'fair': 424, 'good': 394, 'excel...  
+11     {'poor': 474, 'fair': 469, 'excellent': 419, '...  
+12     {'poor': 462, 'excellent': 457, 'fair': 453, '...  
+
+End of Report

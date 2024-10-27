@@ -1,8 +1,10 @@
 # Investigating historic fishing trends for common shellfish species in the state of California based on publicly available fish market catch landing data.
 
-Dataset: California Fish Market Catch Landings, Long List, 1928-2002, Monthly
-Institution: CA DFG, NOAA ERD
-Dataset ID: erdCAMarCatLM
+- Dataset: California Fish Market Catch Landings, Long List, 1928-2002, Monthly
+- Institution: CA DFG, NOAA ERD
+- Dataset ID: erdCAMarCatLM
+- Website (data access): https://upwell.pfeg.noaa.gov/erddap/tabledap/erdCAMarCatLM.html
+- Website (database information): https://oceanview.pfeg.noaa.gov/las_fish1/doc/names_describe.html
 
 This dataset is made available on the the NOAA (National Oceanic and Atmospheric Administration) ERDDAP data server (Environmental Research Division's Data Access Program). The data is also provided in conjunction with CA DFG, the California Department of Fish and Game, now known as California Department of Fish and Wildlife.
 

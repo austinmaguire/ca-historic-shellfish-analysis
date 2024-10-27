@@ -1,7 +1,19 @@
-**Main Research Questions-**
+**Potential Research Questions-**
 
 - For each year in the dataset, what month and port would be the most productive based on landings?
+
   - Example: If I was looking to harvest shellfish in 1978, what port and species is the most productive?
+
+- Indicator Species Model:
+
+  - Develop a model that identifies leading indicator species
+  - Use lagged correlations to find species whose abundance predicts others (incorporate finfish from main dataset?)
+  - Create an early warning system for population changes
+
+- Port Specialization Analysis:
+  - Cluster ports based on their species composition
+  - Analyze how port specializations have evolved over time
+  - Identify optimal port-species combinations
 
 **Miscellaneous Questions to Develop-**
 

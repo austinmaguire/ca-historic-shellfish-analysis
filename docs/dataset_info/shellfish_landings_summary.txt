@@ -1,4 +1,6 @@
 
+NOTE: Contains the 'All' port so Total_Landings are greater than the sum of individual ports
+
 Summary by Species (All)
 ========================
                             Total_Landings  Average_Landings  Number_of_Records

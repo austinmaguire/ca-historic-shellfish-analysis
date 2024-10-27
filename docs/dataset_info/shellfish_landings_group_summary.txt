@@ -2,6 +2,8 @@ Shellfish Landings Analysis by Species Groups
 Generated on: 2024-10-26 10:37:37
 ==================================================
 
+NOTE: Contains the 'All' port so Total_Landings are greater than the sum of individual ports
+
 Summary by Species Group
 ======================
                  Total_Landings  Average_Landings  Number_of_Records
