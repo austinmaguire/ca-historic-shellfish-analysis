@@ -1,0 +1,501 @@
+time,year,species,port,landings
+1944-03-16 00:00:00+00:00,1944,"oyster, eastern",San Francisco,9684
+1958-06-16 00:00:00+00:00,1958,"shrimp, pacific ocean",San Francisco,60273
+1963-08-16 00:00:00+00:00,1963,"shrimp, pacific ocean",San Francisco,12530
+1976-03-16 00:00:00+00:00,1976,"abalone, green",Los Angeles,10578
+1994-10-16 00:00:00+00:00,1994,"crab, rock",San Francisco,6993
+1929-09-16 00:00:00+00:00,1929,"clam, unspecified",All,6848
+1951-04-16 00:00:00+00:00,1951,"oyster, giant pacific",San Francisco,14922
+1976-03-16 00:00:00+00:00,1976,"abalone, pink",Santa Barbara,16628
+1952-02-16 00:00:00+00:00,1952,"crab, rock",All,345
+1989-07-16 00:00:00+00:00,1989,"clam, california jackknife",All,679
+1980-01-16 00:00:00+00:00,1980,"abalone, threaded",All,4
+1933-11-16 00:00:00+00:00,1933,"clam, pismo",Santa Barbara,5217
+1983-05-16 00:00:00+00:00,1983,"shrimp, unspecified",All,2
+2002-04-16 00:00:00+00:00,2002,"crab, dungeness",Eureka,37322
+1984-09-16 00:00:00+00:00,1984,"prawn, spotted",Monterey,161
+1939-10-16 00:00:00+00:00,1939,"clam, native littleneck",All,1786
+1983-10-16 00:00:00+00:00,1983,"crab, spider",Santa Barbara,3751
+1949-04-16 00:00:00+00:00,1949,"clam, common washington",All,832
+1963-07-16 00:00:00+00:00,1963,"abalone, unspecified",Monterey,342
+1996-11-16 00:00:00+00:00,1996,"crab, dungeness",All,719829
+1933-01-16 00:00:00+00:00,1933,"crab, rock",All,190
+1984-09-16 00:00:00+00:00,1984,"crab, rock",Santa Barbara,44957
+1994-04-16 00:00:00+00:00,1994,"crab, dungeness",Monterey,3466
+1986-01-16 00:00:00+00:00,1986,"shrimp, bay",Monterey,160
+1940-05-16 00:00:00+00:00,1940,"oyster, giant pacific",Santa Barbara,5164
+1988-09-16 00:00:00+00:00,1988,"clam, california jackknife",Los Angeles,371
+1936-09-16 00:00:00+00:00,1936,"clam, native littleneck",All,1862
+1994-04-16 00:00:00+00:00,1994,"crab, spider",All,3927
+1937-10-16 00:00:00+00:00,1937,"oyster, giant pacific",All,71103
+1961-12-16 00:00:00+00:00,1961,"clam, california jackknife",All,124
+1958-10-16 00:00:00+00:00,1958,"crab, rock",All,12387
+1980-07-16 00:00:00+00:00,1980,"crab, dungeness",All,30189
+1980-07-16 00:00:00+00:00,1980,"oyster, giant pacific",All,51725
+1994-01-16 00:00:00+00:00,1994,"crab, rock",All,84457
+1939-09-16 00:00:00+00:00,1939,"shrimp, unspecified",San Francisco,104999
+1972-05-16 00:00:00+00:00,1972,"abalone, pink",San Diego,14717
+1987-07-16 00:00:00+00:00,1987,"clam, unspecified",All,3000
+1929-04-16 00:00:00+00:00,1929,"clam, pismo",All,8747
+1997-06-16 00:00:00+00:00,1997,"shrimp, bay",All,5830
+1984-03-16 00:00:00+00:00,1984,"clam, california jackknife",Eureka,8
+1982-01-16 00:00:00+00:00,1982,"oyster, giant pacific",San Francisco,40009
+1953-03-16 00:00:00+00:00,1953,"crab, dungeness",Monterey,2029
+2001-11-16 00:00:00+00:00,2001,"crab, rock",Santa Barbara,49374
+1989-04-16 00:00:00+00:00,1989,"shrimp, pacific ocean",All,2112913
+1980-11-16 00:00:00+00:00,1980,"prawn, spotted",Santa Barbara,1658
+1949-06-16 00:00:00+00:00,1949,"oyster, giant pacific",San Francisco,3665
+1995-07-16 00:00:00+00:00,1995,"abalone, pink",Los Angeles,1462
+1986-04-16 00:00:00+00:00,1986,"prawn, ridgeback",San Diego,850
+1976-11-16 00:00:00+00:00,1976,"abalone, red",San Diego,7031
+1990-03-16 00:00:00+00:00,1990,"crab, spider",San Diego,286
+1998-04-16 00:00:00+00:00,1998,"shrimp, pacific ocean",Santa Barbara,81977
+1997-10-16 00:00:00+00:00,1997,"crab, yellow rock",Santa Barbara,1404
+1946-10-16 00:00:00+00:00,1946,"clam, pismo",Santa Barbara,3485
+1976-06-16 00:00:00+00:00,1976,"oyster, eastern",All,476
+1983-01-16 00:00:00+00:00,1983,"shrimp, pacific ocean",Eureka,43
+1982-03-16 00:00:00+00:00,1982,"oyster, european flat",All,27
+1963-04-16 00:00:00+00:00,1963,"oyster, eastern",All,909
+1954-02-16 00:00:00+00:00,1954,"clam, california jackknife",San Diego,2483
+1961-04-16 00:00:00+00:00,1961,"crab, dungeness",Eureka,984997
+1987-08-16 00:00:00+00:00,1987,"shrimp, pacific ocean",Monterey,22
+2002-08-16 00:00:00+00:00,2002,"crab, king",Los Angeles,175
+1966-04-16 00:00:00+00:00,1966,"abalone, unspecified",Los Angeles,182043
+1971-03-16 00:00:00+00:00,1971,"crab, dungeness",Santa Barbara,936
+1931-10-16 00:00:00+00:00,1931,"clam, pismo",All,10299
+1988-06-16 00:00:00+00:00,1988,"abalone, pink",San Diego,168
+1982-02-16 00:00:00+00:00,1982,"abalone, pink",All,461
+1979-09-16 00:00:00+00:00,1979,"crab, spider",All,1238
+1968-05-16 00:00:00+00:00,1968,"oyster, giant pacific",Santa Barbara,12005
+1960-04-16 00:00:00+00:00,1960,"oyster, giant pacific",San Francisco,24732
+1998-08-16 00:00:00+00:00,1998,"crab, spider",Santa Barbara,4068
+1980-09-16 00:00:00+00:00,1980,"shrimp, unspecified",All,778
+1972-05-16 00:00:00+00:00,1972,"abalone, threaded",All,46
+1942-03-16 00:00:00+00:00,1942,"clam, gaper",San Francisco,120
+1968-09-16 00:00:00+00:00,1968,"crab, rock",Los Angeles,18403
+1970-12-16 00:00:00+00:00,1970,"crab, rock",Monterey,100
+1980-09-16 00:00:00+00:00,1980,"clam, gaper",All,57
+1989-06-16 00:00:00+00:00,1989,"abalone, pink",Los Angeles,1594
+2001-07-16 00:00:00+00:00,2001,"shrimp, bay",All,8754
+1973-05-16 00:00:00+00:00,1973,"oyster, eastern",San Francisco,79
+1965-12-16 00:00:00+00:00,1965,"crab, dungeness",All,705175
+1943-09-16 00:00:00+00:00,1943,"crab, dungeness",All,44
+1987-08-16 00:00:00+00:00,1987,"abalone, black",Los Angeles,1235
+1935-01-16 00:00:00+00:00,1935,"clam, pismo",Monterey,2674
+1983-05-16 00:00:00+00:00,1983,"clam, unspecified",Los Angeles,10
+1973-05-16 00:00:00+00:00,1973,"crab, dungeness",San Francisco,2635
+1992-03-16 00:00:00+00:00,1992,"clam, california jackknife",All,157
+1981-02-16 00:00:00+00:00,1981,"prawn, ridgeback",Santa Barbara,35164
+1962-08-16 00:00:00+00:00,1962,"clam, california jackknife",All,579
+1950-02-16 00:00:00+00:00,1950,"crab, rock",San Diego,120
+1998-10-16 00:00:00+00:00,1998,"crab, rock",San Francisco,8032
+1992-05-16 00:00:00+00:00,1992,"crab, rock",Eureka,1325
+1982-12-16 00:00:00+00:00,1982,"abalone, unspecified",San Francisco,58
+1937-03-16 00:00:00+00:00,1937,"crab, dungeness",Monterey,1206
+1992-04-16 00:00:00+00:00,1992,"crab, dungeness",Los Angeles,570
+1989-01-16 00:00:00+00:00,1989,"crab, rock",San Francisco,1819
+1940-07-16 00:00:00+00:00,1940,"clam, native littleneck",Los Angeles,2315
+1995-02-16 00:00:00+00:00,1995,"crab, rock",Eureka,2257
+1999-11-16 00:00:00+00:00,1999,"crab, dungeness",Eureka,602
+1980-01-16 00:00:00+00:00,1980,"abalone, pink",San Diego,2397
+1979-07-16 00:00:00+00:00,1979,"abalone, pink",Los Angeles,8311
+1990-11-16 00:00:00+00:00,1990,"abalone, black",All,4073
+1986-08-16 00:00:00+00:00,1986,"shrimp, unspecified",Los Angeles,160
+1995-10-16 00:00:00+00:00,1995,"crab, rock",Eureka,806
+1939-03-16 00:00:00+00:00,1939,"clam, gaper",San Francisco,423
+1938-05-16 00:00:00+00:00,1938,"abalone, unspecified",Monterey,251500
+1991-04-16 00:00:00+00:00,1991,"crab, rock",All,136927
+1997-01-16 00:00:00+00:00,1997,"crab, rock",San Diego,12919
+1964-09-16 00:00:00+00:00,1964,"abalone, unspecified",San Diego,17461
+1943-04-16 00:00:00+00:00,1943,"crab, dungeness",Monterey,7494
+1999-04-16 00:00:00+00:00,1999,"prawn, ridgeback",Santa Barbara,69629
+1950-03-16 00:00:00+00:00,1950,"oyster, eastern",San Francisco,7000
+1987-04-16 00:00:00+00:00,1987,"crab, rock",Los Angeles,84016
+1982-04-16 00:00:00+00:00,1982,"prawn, ridgeback",Santa Barbara,8886
+1948-05-16 00:00:00+00:00,1948,"clam, unspecified",San Diego,7256
+1960-05-16 00:00:00+00:00,1960,"clam, common washington",Eureka,78
+1933-06-16 00:00:00+00:00,1933,"oyster, giant pacific",All,66
+1974-05-16 00:00:00+00:00,1974,"abalone, green",Santa Barbara,651
+1941-09-16 00:00:00+00:00,1941,"crab, dungeness",Eureka,1968
+2000-07-16 00:00:00+00:00,2000,"crab, spider",Los Angeles,2238
+1971-09-16 00:00:00+00:00,1971,"crab, rock",Santa Barbara,3480
+1977-05-16 00:00:00+00:00,1977,"crab, rock",Los Angeles,39232
+1989-01-16 00:00:00+00:00,1989,"crab, rock",Monterey,238
+1981-02-16 00:00:00+00:00,1981,"oyster, giant pacific",Eureka,40968
+1977-12-16 00:00:00+00:00,1977,"abalone, green",Los Angeles,5350
+1999-06-16 00:00:00+00:00,1999,"crab, rock",San Diego,5997
+1970-07-16 00:00:00+00:00,1970,"oyster, giant pacific",San Francisco,16278
+1934-09-16 00:00:00+00:00,1934,"shrimp, unspecified",San Francisco,158428
+1995-05-16 00:00:00+00:00,1995,"abalone, red",Los Angeles,90
+1952-09-16 00:00:00+00:00,1952,"clam, common washington",Eureka,325
+1976-11-16 00:00:00+00:00,1976,"abalone, threaded",Santa Barbara,288
+1999-09-16 00:00:00+00:00,1999,"crab, rock",Santa Barbara,60058
+1982-02-16 00:00:00+00:00,1982,"crab, rock",San Francisco,1449
+2001-11-16 00:00:00+00:00,2001,"prawn, ridgeback",Los Angeles,387
+1975-05-16 00:00:00+00:00,1975,"abalone, red",All,71008
+1979-01-16 00:00:00+00:00,1979,"prawn, spotted",Santa Barbara,9151
+1957-09-16 00:00:00+00:00,1957,"clam, common washington",Eureka,156
+1952-10-16 00:00:00+00:00,1952,"oyster, giant pacific",All,19055
+1928-03-16 00:00:00+00:00,1928,"crab, dungeness",All,244632
+1982-07-16 00:00:00+00:00,1982,"abalone, red",All,57634
+1952-03-16 00:00:00+00:00,1952,"crab, dungeness",San Francisco,40187
+1953-02-16 00:00:00+00:00,1953,"oyster, eastern",All,14157
+1955-07-16 00:00:00+00:00,1955,"prawn, unspecified",All,13
+1968-08-16 00:00:00+00:00,1968,"crab, rock",Los Angeles,28320
+1947-10-16 00:00:00+00:00,1947,"oyster, giant pacific",All,2850
+1994-05-16 00:00:00+00:00,1994,"abalone, red",San Francisco,3673
+1948-11-16 00:00:00+00:00,1948,"abalone, unspecified",Los Angeles,96907
+1954-06-16 00:00:00+00:00,1954,"shrimp, pacific ocean",Santa Barbara,1774
+1982-12-16 00:00:00+00:00,1982,"abalone, red",All,26605
+1992-06-16 00:00:00+00:00,1992,"prawn, spotted",All,22212
+1981-01-16 00:00:00+00:00,1981,"crab, rock",Santa Barbara,59740
+1949-07-16 00:00:00+00:00,1949,"clam, california jackknife",All,690
+1980-08-16 00:00:00+00:00,1980,"prawn, spotted",All,3759
+1936-11-16 00:00:00+00:00,1936,"abalone, unspecified",All,236714
+1985-01-16 00:00:00+00:00,1985,"prawn, spotted",Monterey,493
+1974-09-16 00:00:00+00:00,1974,"abalone, black",Los Angeles,68373
+1977-08-16 00:00:00+00:00,1977,"abalone, white",Santa Barbara,20
+1939-04-16 00:00:00+00:00,1939,"clam, pismo",Santa Barbara,12142
+1962-06-16 00:00:00+00:00,1962,"shrimp, pacific ocean",Eureka,216955
+1987-03-16 00:00:00+00:00,1987,"shrimp, red rock",Los Angeles,3
+1975-06-16 00:00:00+00:00,1975,"abalone, black",San Diego,210
+1988-03-16 00:00:00+00:00,1988,"abalone, red",Los Angeles,2109
+1975-12-16 00:00:00+00:00,1975,"crab, dungeness",Eureka,2038571
+1948-01-16 00:00:00+00:00,1948,"prawn, unspecified",Monterey,887
+1957-01-16 00:00:00+00:00,1957,"crab, dungeness",All,2878702
+1946-01-16 00:00:00+00:00,1946,"abalone, unspecified",Monterey,11925
+1985-06-16 00:00:00+00:00,1985,"crab, rock",Los Angeles,73637
+1941-11-16 00:00:00+00:00,1941,"clam, common washington",All,2418
+1982-07-16 00:00:00+00:00,1982,"crab, rock",All,103454
+1992-11-16 00:00:00+00:00,1992,"crab, dungeness",All,163404
+1931-07-16 00:00:00+00:00,1931,"clam, pismo",Santa Barbara,11749
+1989-11-16 00:00:00+00:00,1989,"crab, dungeness",Monterey,20168
+1978-08-16 00:00:00+00:00,1978,"shrimp, pacific ocean",Monterey,79
+1970-07-16 00:00:00+00:00,1970,"oyster, eastern",All,1604
+1962-05-16 00:00:00+00:00,1962,"clam, gaper",Monterey,100
+1991-12-16 00:00:00+00:00,1991,"abalone, red",Los Angeles,19
+1939-02-16 00:00:00+00:00,1939,"clam, common washington",San Francisco,327
+1966-12-16 00:00:00+00:00,1966,"oyster, eastern",San Francisco,602
+1937-11-16 00:00:00+00:00,1937,"clam, native littleneck",Los Angeles,1715
+1986-07-16 00:00:00+00:00,1986,"abalone, white",All,171
+1930-03-16 00:00:00+00:00,1930,"crab, dungeness",All,172032
+1990-12-16 00:00:00+00:00,1990,"abalone, pink",Los Angeles,577
+1990-11-16 00:00:00+00:00,1990,"shrimp, unspecified",All,21
+2000-08-16 00:00:00+00:00,2000,"crab, king",Santa Barbara,268
+1942-05-16 00:00:00+00:00,1942,"oyster, eastern",San Francisco,5864
+1992-04-16 00:00:00+00:00,1992,"abalone, green",Santa Barbara,149
+1978-06-16 00:00:00+00:00,1978,"crab, dungeness",San Diego,100
+1980-11-16 00:00:00+00:00,1980,"abalone, red",San Francisco,2538
+1979-10-16 00:00:00+00:00,1979,"abalone, green",Santa Barbara,492
+1964-02-16 00:00:00+00:00,1964,"oyster, giant pacific",Santa Barbara,20495
+1980-04-16 00:00:00+00:00,1980,"prawn, spotted",Santa Barbara,18902
+2002-03-16 00:00:00+00:00,2002,"prawn, ridgeback",Santa Barbara,51037
+1940-05-16 00:00:00+00:00,1940,"oyster, eastern",San Francisco,6140
+1985-11-16 00:00:00+00:00,1985,"clam, native littleneck",San Francisco,80
+1971-07-16 00:00:00+00:00,1971,"oyster, eastern",San Francisco,608
+1932-01-16 00:00:00+00:00,1932,"oyster, california",All,13891
+1970-08-16 00:00:00+00:00,1970,"oyster, eastern",San Francisco,1329
+1961-08-16 00:00:00+00:00,1961,"oyster, giant pacific",Santa Barbara,35525
+1984-10-16 00:00:00+00:00,1984,"abalone, red",Los Angeles,83
+1993-02-16 00:00:00+00:00,1993,"crab, rock",All,110822
+1989-01-16 00:00:00+00:00,1989,"crab, dungeness",Los Angeles,329
+1972-06-16 00:00:00+00:00,1972,"shrimp, pacific ocean",Eureka,249126
+1959-09-16 00:00:00+00:00,1959,"crab, rock",Santa Barbara,1474
+1998-02-16 00:00:00+00:00,1998,"prawn, spotted",Los Angeles,4024
+1952-11-16 00:00:00+00:00,1952,"clam, gaper",All,40
+1939-10-16 00:00:00+00:00,1939,"clam, pismo",Monterey,2709
+1982-08-16 00:00:00+00:00,1982,"crab, rock",Eureka,296
+1938-12-16 00:00:00+00:00,1938,"abalone, unspecified",All,51525
+1972-02-16 00:00:00+00:00,1972,"abalone, black",Los Angeles,1325
+1953-05-16 00:00:00+00:00,1953,"abalone, unspecified",Santa Barbara,147803
+1958-01-16 00:00:00+00:00,1958,"oyster, eastern",All,11528
+1971-06-16 00:00:00+00:00,1971,"abalone, unspecified",San Francisco,1460
+1970-05-16 00:00:00+00:00,1970,"abalone, unspecified",Santa Barbara,172030
+1991-10-16 00:00:00+00:00,1991,"abalone, red",Santa Barbara,23783
+1939-01-16 00:00:00+00:00,1939,"clam, native littleneck",Los Angeles,1791
+1982-09-16 00:00:00+00:00,1982,"abalone, white",San Diego,16
+1931-10-16 00:00:00+00:00,1931,"abalone, unspecified",Monterey,157500
+1991-10-16 00:00:00+00:00,1991,"crab, spider",Los Angeles,4843
+1984-05-16 00:00:00+00:00,1984,"crab, spider",Los Angeles,1286
+1931-11-16 00:00:00+00:00,1931,"clam, unspecified",Los Angeles,3830
+1980-12-16 00:00:00+00:00,1980,"abalone, unspecified",All,10
+2000-11-16 00:00:00+00:00,2000,"shrimp, bay",Los Angeles,2
+1979-10-16 00:00:00+00:00,1979,"abalone, red",All,37143
+1983-11-16 00:00:00+00:00,1983,"abalone, red",San Francisco,1187
+1929-11-16 00:00:00+00:00,1929,"clam, pismo",Monterey,1270
+1938-05-16 00:00:00+00:00,1938,"crab, dungeness",Eureka,73672
+1991-06-16 00:00:00+00:00,1991,"abalone, pink",Los Angeles,260
+1996-10-16 00:00:00+00:00,1996,"abalone, red",San Francisco,3679
+1938-08-16 00:00:00+00:00,1938,"oyster, giant pacific",San Francisco,75643
+1967-11-16 00:00:00+00:00,1967,"shrimp, bay",All,1758
+1981-03-16 00:00:00+00:00,1981,"abalone, black",Santa Barbara,17629
+1977-08-16 00:00:00+00:00,1977,"crab, rock",All,63741
+1986-06-16 00:00:00+00:00,1986,"abalone, red",San Diego,632
+1940-09-16 00:00:00+00:00,1940,"clam, native littleneck",All,40
+1993-11-16 00:00:00+00:00,1993,"shrimp, bay",All,9488
+1994-06-16 00:00:00+00:00,1994,"crab, rock",Los Angeles,2421
+1990-04-16 00:00:00+00:00,1990,"crab, spider",San Diego,181
+2000-05-16 00:00:00+00:00,2000,"crab, rock",San Francisco,2586
+1958-10-16 00:00:00+00:00,1958,"shrimp, pacific ocean",San Francisco,325
+1979-10-16 00:00:00+00:00,1979,"crab, dungeness",All,2497
+1985-03-16 00:00:00+00:00,1985,"shrimp, unspecified",All,1027
+1996-10-16 00:00:00+00:00,1996,"clam, gaper",San Francisco,11
+1983-02-16 00:00:00+00:00,1983,"crab, rock",All,85124
+1976-05-16 00:00:00+00:00,1976,"abalone, white",San Diego,2601
+1975-03-16 00:00:00+00:00,1975,"abalone, threaded",Santa Barbara,16
+1958-02-16 00:00:00+00:00,1958,"oyster, eastern",All,9599
+1978-07-16 00:00:00+00:00,1978,"abalone, white",Los Angeles,960
+1950-01-16 00:00:00+00:00,1950,"clam, california jackknife",All,55
+1966-06-16 00:00:00+00:00,1966,"crab, rock",San Diego,48
+1980-04-16 00:00:00+00:00,1980,"oyster, european flat",All,186
+1939-09-16 00:00:00+00:00,1939,"clam, gaper",All,240
+1992-02-16 00:00:00+00:00,1992,"crab, dungeness",San Francisco,160525
+1978-01-16 00:00:00+00:00,1978,"abalone, white",Santa Barbara,34
+1984-05-16 00:00:00+00:00,1984,"shrimp, unspecified",All,3023
+1936-02-16 00:00:00+00:00,1936,"oyster, giant pacific",Monterey,346
+1950-04-16 00:00:00+00:00,1950,"crab, rock",Los Angeles,890
+1980-04-16 00:00:00+00:00,1980,"abalone, pink",Monterey,133
+1934-05-16 00:00:00+00:00,1934,"abalone, unspecified",Monterey,103500
+1992-02-16 00:00:00+00:00,1992,"prawn, spotted",Santa Barbara,6366
+1988-10-16 00:00:00+00:00,1988,"crab, rock",Monterey,5525
+1940-07-16 00:00:00+00:00,1940,"oyster, california",All,4078
+1988-01-16 00:00:00+00:00,1988,"abalone, pink",Los Angeles,2238
+1990-10-16 00:00:00+00:00,1990,"abalone, black",All,1219
+1950-03-16 00:00:00+00:00,1950,"crab, dungeness",San Francisco,206415
+1950-01-16 00:00:00+00:00,1950,"oyster, california",All,8
+1969-04-16 00:00:00+00:00,1969,"abalone, unspecified",San Diego,33674
+1969-10-16 00:00:00+00:00,1969,"crab, rock",All,49342
+1957-09-16 00:00:00+00:00,1957,"oyster, california",Eureka,4250
+1986-11-16 00:00:00+00:00,1986,"shrimp, bay",All,13307
+1955-10-16 00:00:00+00:00,1955,"abalone, unspecified",San Diego,30396
+1977-11-16 00:00:00+00:00,1977,"abalone, unspecified",All,4
+1987-05-16 00:00:00+00:00,1987,"abalone, black",San Diego,77
+2001-02-16 00:00:00+00:00,2001,"prawn, spotted",San Francisco,13231
+1938-11-16 00:00:00+00:00,1938,"crab, dungeness",San Francisco,452240
+1962-02-16 00:00:00+00:00,1962,"crab, dungeness",All,230238
+1989-01-16 00:00:00+00:00,1989,"shrimp, bay",All,12520
+1970-03-16 00:00:00+00:00,1970,"abalone, unspecified",San Francisco,1805
+1958-03-16 00:00:00+00:00,1958,"oyster, giant pacific",All,1045026
+1991-04-16 00:00:00+00:00,1991,"prawn, spotted",Santa Barbara,4990
+1946-05-16 00:00:00+00:00,1946,"oyster, eastern",All,7178
+1964-07-16 00:00:00+00:00,1964,"crab, rock",Eureka,1200
+1932-11-16 00:00:00+00:00,1932,"clam, gaper",San Francisco,110
+1997-02-16 00:00:00+00:00,1997,"clam, california jackknife",All,108
+1994-11-16 00:00:00+00:00,1994,"crab, rock",Los Angeles,2207
+1994-07-16 00:00:00+00:00,1994,"abalone, pink",All,3460
+1992-01-16 00:00:00+00:00,1992,"clam, california jackknife",Los Angeles,182
+1993-12-16 00:00:00+00:00,1993,"shrimp, bay",San Francisco,7891
+1975-09-16 00:00:00+00:00,1975,"prawn, ridgeback",Santa Barbara,1235
+1999-08-16 00:00:00+00:00,1999,"clam, rosy razor",All,7
+1935-12-16 00:00:00+00:00,1935,"oyster, giant pacific",Monterey,9000
+1931-12-16 00:00:00+00:00,1931,"crab, dungeness",Eureka,4476
+1998-10-16 00:00:00+00:00,1998,"prawn, spotted",All,58111
+1935-07-16 00:00:00+00:00,1935,"oyster, california",All,9714
+1997-10-16 00:00:00+00:00,1997,"abalone, red",Santa Barbara,98
+2000-09-16 00:00:00+00:00,2000,"crab, rock",All,102124
+1982-09-16 00:00:00+00:00,1982,"clam, california jackknife",All,247
+1944-03-16 00:00:00+00:00,1944,"oyster, eastern",All,9684
+1974-05-16 00:00:00+00:00,1974,"abalone, pinto",All,87
+1996-09-16 00:00:00+00:00,1996,"abalone, red",San Francisco,5974
+1969-12-16 00:00:00+00:00,1969,"crab, rock",San Diego,80
+1950-02-16 00:00:00+00:00,1950,"oyster, giant pacific",San Francisco,14657
+1936-07-16 00:00:00+00:00,1936,"oyster, eastern",San Francisco,10254
+1938-09-16 00:00:00+00:00,1938,"crab, rock",All,1068
+1988-11-16 00:00:00+00:00,1988,"crab, rock",Eureka,380
+1975-08-16 00:00:00+00:00,1975,"abalone, red",Santa Barbara,237
+1973-12-16 00:00:00+00:00,1973,"prawn, spotted",Santa Barbara,9332
+1976-03-16 00:00:00+00:00,1976,"prawn, ridgeback",Santa Barbara,8
+2001-05-16 00:00:00+00:00,2001,"shrimp, pacific ocean",Eureka,356742
+1984-08-16 00:00:00+00:00,1984,"crab, king",All,25
+1950-08-16 00:00:00+00:00,1950,"shrimp, unspecified",San Francisco,217589
+1992-02-16 00:00:00+00:00,1992,"crab, dungeness",Monterey,8677
+1932-11-16 00:00:00+00:00,1932,"abalone, unspecified",Monterey,179000
+1982-08-16 00:00:00+00:00,1982,"shrimp, bay",San Francisco,20688
+2001-09-16 00:00:00+00:00,2001,"prawn, spotted",Los Angeles,8563
+1989-09-16 00:00:00+00:00,1989,"abalone, red",Santa Barbara,54999
+1995-06-16 00:00:00+00:00,1995,"shrimp, unspecified",All,440
+1944-08-16 00:00:00+00:00,1944,"abalone, unspecified",All,158002
+1963-11-16 00:00:00+00:00,1963,"oyster, giant pacific",San Francisco,20726
+1985-02-16 00:00:00+00:00,1985,"shrimp, pacific ocean",All,89
+1975-05-16 00:00:00+00:00,1975,"shrimp, pacific ocean",Santa Barbara,34435
+1955-06-16 00:00:00+00:00,1955,"abalone, unspecified",San Francisco,1615
+1928-10-16 00:00:00+00:00,1928,"clam, unspecified",All,1683
+1956-01-16 00:00:00+00:00,1956,"clam, california jackknife",San Diego,406
+1940-11-16 00:00:00+00:00,1940,"clam, pismo",All,14114
+1936-07-16 00:00:00+00:00,1936,"abalone, unspecified",Monterey,66550
+1992-01-16 00:00:00+00:00,1992,"crab, spider",All,10669
+1939-12-16 00:00:00+00:00,1939,"clam, common washington",San Francisco,214
+1932-08-16 00:00:00+00:00,1932,"clam, common washington",San Francisco,71
+1936-03-16 00:00:00+00:00,1936,"oyster, giant pacific",All,18100
+1951-04-16 00:00:00+00:00,1951,"shrimp, unspecified",San Francisco,56953
+1953-03-16 00:00:00+00:00,1953,"crab, dungeness",Santa Barbara,7392
+1943-09-16 00:00:00+00:00,1943,"abalone, unspecified",Santa Barbara,32350
+1995-11-16 00:00:00+00:00,1995,"prawn, spotted",San Diego,2218
+1954-03-16 00:00:00+00:00,1954,"abalone, unspecified",Santa Barbara,87067
+1946-12-16 00:00:00+00:00,1946,"clam, pismo",All,3538
+1950-11-16 00:00:00+00:00,1950,"crab, dungeness",San Francisco,1420531
+1998-09-16 00:00:00+00:00,1998,"crab, red rock",Santa Barbara,3185
+1970-06-16 00:00:00+00:00,1970,"crab, spider",All,14
+1990-03-16 00:00:00+00:00,1990,"abalone, green",All,6192
+1958-07-16 00:00:00+00:00,1958,"abalone, unspecified",San Francisco,2250
+1976-04-16 00:00:00+00:00,1976,"abalone, threaded",Santa Barbara,137
+1947-10-16 00:00:00+00:00,1947,"oyster, giant pacific",Santa Barbara,2850
+1936-04-16 00:00:00+00:00,1936,"crab, dungeness",Eureka,30214
+1985-09-16 00:00:00+00:00,1985,"shrimp, pacific ocean",Eureka,109475
+1954-05-16 00:00:00+00:00,1954,"abalone, unspecified",Los Angeles,311143
+1938-01-16 00:00:00+00:00,1938,"abalone, unspecified",All,94637
+1932-09-16 00:00:00+00:00,1932,"clam, pismo",Santa Barbara,9704
+1998-09-16 00:00:00+00:00,1998,"prawn, spotted",Monterey,3394
+1941-10-16 00:00:00+00:00,1941,"clam, pismo",Monterey,1057
+1991-02-16 00:00:00+00:00,1991,"clam, california jackknife",All,200
+1979-06-16 00:00:00+00:00,1979,"abalone, red",San Diego,1303
+1991-08-16 00:00:00+00:00,1991,"crab, rock",San Francisco,6717
+1979-06-16 00:00:00+00:00,1979,"crab, spider",All,723
+1981-12-16 00:00:00+00:00,1981,"oyster, giant pacific",All,100499
+1937-02-16 00:00:00+00:00,1937,"clam, gaper",San Francisco,136
+1947-03-16 00:00:00+00:00,1947,"clam, gaper",Monterey,476
+1962-08-16 00:00:00+00:00,1962,"clam, unspecified",Monterey,40
+1988-11-16 00:00:00+00:00,1988,"abalone, pink",San Diego,46
+1933-05-16 00:00:00+00:00,1933,"oyster, california",San Francisco,745
+1971-06-16 00:00:00+00:00,1971,"oyster, giant pacific",All,59476
+1975-11-16 00:00:00+00:00,1975,"abalone, red",All,52468
+1978-01-16 00:00:00+00:00,1978,"abalone, pink",All,50290
+1938-12-16 00:00:00+00:00,1938,"clam, gaper",All,180
+1933-02-16 00:00:00+00:00,1933,"oyster, california",San Francisco,801
+2000-03-16 00:00:00+00:00,2000,"clam, unspecified",All,26
+1986-08-16 00:00:00+00:00,1986,"prawn, spotted",All,13171
+1981-08-16 00:00:00+00:00,1981,"crab, rock",Los Angeles,34431
+1981-04-16 00:00:00+00:00,1981,"abalone, pink",Los Angeles,2391
+1945-12-16 00:00:00+00:00,1945,"crab, dungeness",Monterey,3964
+2001-12-16 00:00:00+00:00,2001,"prawn, spotted",Monterey,4806
+1987-10-16 00:00:00+00:00,1987,"abalone, black",Los Angeles,6622
+1990-09-16 00:00:00+00:00,1990,"crab, rock",San Diego,38395
+1993-08-16 00:00:00+00:00,1993,"crab, rock",All,125588
+1937-08-16 00:00:00+00:00,1937,"oyster, eastern",San Francisco,29559
+1932-10-16 00:00:00+00:00,1932,"clam, unspecified",Los Angeles,1948
+1990-12-16 00:00:00+00:00,1990,"crab, rock",All,109562
+1990-12-16 00:00:00+00:00,1990,"prawn, ridgeback",Santa Barbara,16176
+1957-10-16 00:00:00+00:00,1957,"clam, common washington",Eureka,277
+1947-03-16 00:00:00+00:00,1947,"clam, pismo",All,6496
+1988-04-16 00:00:00+00:00,1988,"crab, spider",All,8964
+1955-04-16 00:00:00+00:00,1955,"clam, common washington",San Francisco,5
+1935-09-16 00:00:00+00:00,1935,"oyster, eastern",All,26360
+1972-07-16 00:00:00+00:00,1972,"abalone, red",Monterey,150
+1994-05-16 00:00:00+00:00,1994,"abalone, red",Los Angeles,68
+1988-01-16 00:00:00+00:00,1988,"abalone, red",San Francisco,15338
+1951-02-16 00:00:00+00:00,1951,"prawn, unspecified",All,613
+1980-04-16 00:00:00+00:00,1980,"abalone, unspecified",Santa Barbara,160
+1993-02-16 00:00:00+00:00,1993,"prawn, spotted",Monterey,812
+1938-05-16 00:00:00+00:00,1938,"oyster, giant pacific",All,74665
+1953-01-16 00:00:00+00:00,1953,"oyster, eastern",San Francisco,13231
+1995-01-16 00:00:00+00:00,1995,"crab, yellow rock",All,220
+1972-09-16 00:00:00+00:00,1972,"oyster, giant pacific",San Francisco,10941
+1995-03-16 00:00:00+00:00,1995,"abalone, green",Los Angeles,119
+1967-02-16 00:00:00+00:00,1967,"crab, dungeness",Eureka,2522531
+1969-03-16 00:00:00+00:00,1969,"crab, dungeness",San Francisco,16383
+1960-08-16 00:00:00+00:00,1960,"abalone, unspecified",Santa Barbara,295567
+1987-08-16 00:00:00+00:00,1987,"abalone, green",All,626
+1993-07-16 00:00:00+00:00,1993,"shrimp, pacific ocean",Eureka,288111
+1985-06-16 00:00:00+00:00,1985,"prawn, ridgeback",Santa Barbara,253
+1973-06-16 00:00:00+00:00,1973,"abalone, green",San Diego,3418
+1949-05-16 00:00:00+00:00,1949,"shrimp, unspecified",San Francisco,83692
+1987-08-16 00:00:00+00:00,1987,"prawn, spotted",Los Angeles,919
+1955-07-16 00:00:00+00:00,1955,"clam, gaper",Monterey,116
+1938-10-16 00:00:00+00:00,1938,"clam, common washington",Eureka,3132
+1950-08-16 00:00:00+00:00,1950,"crab, dungeness",San Francisco,210
+1958-09-16 00:00:00+00:00,1958,"abalone, unspecified",Santa Barbara,244723
+1998-03-16 00:00:00+00:00,1998,"crab, rock",San Diego,7323
+1985-04-16 00:00:00+00:00,1985,"clam, california jackknife",All,308
+1987-08-16 00:00:00+00:00,1987,"prawn, spotted",Santa Barbara,8546
+1931-10-16 00:00:00+00:00,1931,"clam, native littleneck",All,10269
+1987-05-16 00:00:00+00:00,1987,"abalone, pink",All,2802
+1944-09-16 00:00:00+00:00,1944,"oyster, giant pacific",San Francisco,11646
+1981-02-16 00:00:00+00:00,1981,"abalone, pink",Los Angeles,8
+1998-08-16 00:00:00+00:00,1998,"crab, rock",San Diego,10398
+1988-05-16 00:00:00+00:00,1988,"crab, rock",Monterey,136
+1986-07-16 00:00:00+00:00,1986,"abalone, red",All,21710
+1983-09-16 00:00:00+00:00,1983,"abalone, pink",San Diego,1621
+1998-08-16 00:00:00+00:00,1998,"prawn, ridgeback",All,242
+1995-04-16 00:00:00+00:00,1995,"crab, dungeness",All,297152
+1984-02-16 00:00:00+00:00,1984,"crab, rock",Monterey,750
+1972-11-16 00:00:00+00:00,1972,"abalone, green",San Diego,7259
+1936-01-16 00:00:00+00:00,1936,"crab, dungeness",San Francisco,455538
+1980-03-16 00:00:00+00:00,1980,"crab, dungeness",All,372452
+1972-05-16 00:00:00+00:00,1972,"oyster, giant pacific",San Diego,12
+1992-11-16 00:00:00+00:00,1992,"crab, rock",San Diego,2219
+1976-04-16 00:00:00+00:00,1976,"oyster, eastern",San Francisco,445
+1956-07-16 00:00:00+00:00,1956,"prawn, unspecified",All,184
+1983-01-16 00:00:00+00:00,1983,"shrimp, bay",All,12459
+1941-04-16 00:00:00+00:00,1941,"clam, common washington",Eureka,3231
+1965-03-16 00:00:00+00:00,1965,"crab, dungeness",Santa Barbara,728
+1983-07-16 00:00:00+00:00,1983,"crab, king",Santa Barbara,170
+1990-09-16 00:00:00+00:00,1990,"abalone, black",San Diego,27
+1928-03-16 00:00:00+00:00,1928,"clam, pismo",All,7565
+1970-12-16 00:00:00+00:00,1970,"shrimp, bay",All,259
+1952-01-16 00:00:00+00:00,1952,"oyster, giant pacific",San Francisco,11277
+1987-03-16 00:00:00+00:00,1987,"abalone, unspecified",Los Angeles,75
+1993-05-16 00:00:00+00:00,1993,"abalone, pink",San Diego,34
+1997-06-16 00:00:00+00:00,1997,"crab, rock",All,109745
+1992-07-16 00:00:00+00:00,1992,"crab, rock",Monterey,1389
+1972-01-16 00:00:00+00:00,1972,"crab, dungeness",Santa Barbara,92
+1938-07-16 00:00:00+00:00,1938,"oyster, eastern",San Francisco,13592
+1981-06-16 00:00:00+00:00,1981,"crab, spider",Los Angeles,247
+1940-06-16 00:00:00+00:00,1940,"clam, pismo",Santa Barbara,15677
+1930-02-16 00:00:00+00:00,1930,"clam, unspecified",Eureka,2092
+1986-03-16 00:00:00+00:00,1986,"abalone, pink",Los Angeles,3459
+1981-05-16 00:00:00+00:00,1981,"crab, dungeness",San Francisco,30147
+1962-10-16 00:00:00+00:00,1962,"abalone, unspecified",Santa Barbara,259580
+1953-10-16 00:00:00+00:00,1953,"shrimp, bay",San Francisco,46678
+1991-09-16 00:00:00+00:00,1991,"shrimp, pacific ocean",All,630280
+1963-11-16 00:00:00+00:00,1963,"crab, rock",Santa Barbara,5530
+1977-05-16 00:00:00+00:00,1977,"oyster, eastern",San Francisco,402
+1951-11-16 00:00:00+00:00,1951,"clam, unspecified",All,1404
+1992-10-16 00:00:00+00:00,1992,"crab, spider",Los Angeles,2911
+1971-02-16 00:00:00+00:00,1971,"crab, rock",San Diego,5934
+1980-09-16 00:00:00+00:00,1980,"abalone, green",Los Angeles,5039
+1938-10-16 00:00:00+00:00,1938,"shrimp, unspecified",Monterey,156
+1971-11-16 00:00:00+00:00,1971,"abalone, unspecified",Santa Barbara,136733
+1959-10-16 00:00:00+00:00,1959,"crab, rock",Los Angeles,2846
+1947-05-16 00:00:00+00:00,1947,"crab, dungeness",San Francisco,233987
+1992-05-16 00:00:00+00:00,1992,"prawn, spotted",San Francisco,12
+1968-12-16 00:00:00+00:00,1968,"oyster, eastern",San Francisco,1625
+1982-03-16 00:00:00+00:00,1982,"crab, rock",Santa Barbara,71000
+1929-12-16 00:00:00+00:00,1929,"oyster, california",All,1358
+1931-06-16 00:00:00+00:00,1931,"clam, california jackknife",All,1870
+1948-03-16 00:00:00+00:00,1948,"crab, dungeness",All,1455297
+1975-09-16 00:00:00+00:00,1975,"abalone, threaded",San Diego,164
+1954-08-16 00:00:00+00:00,1954,"abalone, unspecified",All,366055
+1982-06-16 00:00:00+00:00,1982,"clam, gaper",Monterey,37
+1949-08-16 00:00:00+00:00,1949,"crab, rock",Los Angeles,449
+1935-06-16 00:00:00+00:00,1935,"oyster, eastern",All,13985
+1955-09-16 00:00:00+00:00,1955,"abalone, unspecified",San Diego,65018
+1936-12-16 00:00:00+00:00,1936,"oyster, eastern",San Francisco,46372
+1936-08-16 00:00:00+00:00,1936,"clam, common washington",All,343
+1996-10-16 00:00:00+00:00,1996,"prawn, ridgeback",All,63024
+1955-03-16 00:00:00+00:00,1955,"prawn, unspecified",All,147
+1985-01-16 00:00:00+00:00,1985,"crab, dungeness",All,453322
+1957-07-16 00:00:00+00:00,1957,"abalone, unspecified",Los Angeles,154945
+1957-12-16 00:00:00+00:00,1957,"crab, dungeness",Santa Barbara,32564
+1933-08-16 00:00:00+00:00,1933,"clam, gaper",All,146
+1940-12-16 00:00:00+00:00,1940,"abalone, unspecified",Monterey,12500
+1980-09-16 00:00:00+00:00,1980,"abalone, white",San Diego,314
+1999-05-16 00:00:00+00:00,1999,"prawn, spotted",Los Angeles,12408
+1972-09-16 00:00:00+00:00,1972,"abalone, red",All,136605
+1947-12-16 00:00:00+00:00,1947,"abalone, unspecified",Santa Barbara,372073
+1952-07-16 00:00:00+00:00,1952,"crab, dungeness",All,314498
+1948-01-16 00:00:00+00:00,1948,"crab, dungeness",Monterey,10062
+1940-01-16 00:00:00+00:00,1940,"clam, pismo",Monterey,1380
+1942-02-16 00:00:00+00:00,1942,"shrimp, unspecified",All,51635
+2001-12-16 00:00:00+00:00,2001,"shrimp, bay",San Francisco,8155
+1942-05-16 00:00:00+00:00,1942,"abalone, unspecified",Monterey,1350
+1996-12-16 00:00:00+00:00,1996,"crab, spider",Santa Barbara,2228
+1979-03-16 00:00:00+00:00,1979,"prawn, spotted",Santa Barbara,3655
+1978-12-16 00:00:00+00:00,1978,"abalone, pink",Los Angeles,9258
+1938-10-16 00:00:00+00:00,1938,"clam, native littleneck",All,2700
+1953-03-16 00:00:00+00:00,1953,"oyster, eastern",San Francisco,13307
+1988-04-16 00:00:00+00:00,1988,"crab, dungeness",Santa Barbara,308
+1995-11-16 00:00:00+00:00,1995,"shrimp, red rock",All,11
+1955-01-16 00:00:00+00:00,1955,"crab, dungeness",Santa Barbara,6608
+1994-09-16 00:00:00+00:00,1994,"prawn, ridgeback",All,10
+1941-07-16 00:00:00+00:00,1941,"oyster, giant pacific",All,99320
+1987-02-16 00:00:00+00:00,1987,"shrimp, pacific ocean",All,804

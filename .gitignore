@@ -1,4 +1,3 @@
-
 # Data files
 data/raw/california_fish_landings_1928_2002.csv
 data/raw/*
@@ -10,7 +9,7 @@ data/external/*
 
 # Documentation
 docs/erddap_info/
-docs/report_for_final.md
+docs/draft_report_for_final.md
 
 # Image files
 images/*
@@ -67,12 +66,19 @@ Thumbs.db
 models/
 
 # Large files
-*.csv
 *.xlsx
 *.zip
 *.tar.gz
 
-# Course Final
+# Explicitly ignore specific CSV files
+data/processed/ca_all_shellfish_landings.csv
+
+# Explicitly include specific CSV files
+!PYT305_final_submission/ca_shellfish_landings.csv
+!data/processed/shellfish_landings_mid-modeling.csv
+!data/processed/shellfish_landings_snippet.csv
+
+# Course Final scratch files
 AMaguire_PYT305_Final.ipynb
 ml_for_py_final.ipynb
 notebooks/01_AMaguire_PYT305_Final.ipynb
